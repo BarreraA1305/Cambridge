@@ -1,0 +1,112 @@
+{
+  "hoteles": [
+    {
+      "id": "h01",
+      "nombre": "The Voyage Hotel Paddington, Sonder",
+      "ciudad": "Londres",
+      "direccion": "13–17 Norfolk Square, Londres, Reino Unido",
+      "direccion_local": null,
+      "telefono": "+44 20 7262 9577",
+      "checkin": "2026-11-24",
+      "checkout": "2026-11-25",
+      "huespedes": [
+        "p01",
+        "p03"
+      ],
+      "foto": null,
+      "mapa_url": "https://www.google.com/maps/search/?api=1&query=The+Voyage+Hotel+Paddington%2C+13-17+Norfolk+Square%2C+London",
+      "fuente": "agenda; investigación",
+      "nombre_local": null,
+      "grupo": {
+        "es": "Delegación Yucatán",
+        "en": "Yucatán delegation"
+      },
+      "sitio_web": "https://sonder.com/property/the-voyage-hotel-paddington/EP-94647980",
+      "foto_credito": null,
+      "foto_fuente_url": null,
+      "foto_licencia": null,
+      "agenda_pagina": 5,
+      "estado": "segun_itinerario",
+      "nota_coordinacion": {
+        "es": "Check-in 24 nov 17:30–18:00; check-out 25 nov (hora por definir en la agenda).",
+        "en": "Check-in 24 Nov 17:30–18:00; check-out 25 Nov (time not stated in the agenda)."
+      },
+      "pendiente_validacion": true,
+      "revisar": true,
+      "traduccion": "automatica"
+    },
+    {
+      "id": "h02",
+      "nombre": "Turing Locke Cambridge",
+      "ciudad": "Cambridge",
+      "direccion": "47 Eddington Ave, Cambridge, Reino Unido",
+      "direccion_local": null,
+      "telefono": "+44 330 202 0404",
+      "checkin": "2026-11-25",
+      "checkout": "2026-11-27",
+      "huespedes": [
+        "p01",
+        "p03"
+      ],
+      "foto": "assets/places/h02.webp",
+      "mapa_url": "https://www.google.com/maps/search/?api=1&query=Turing+Locke%2C+47+Eddington+Ave%2C+Cambridge",
+      "fuente": "agenda; investigación",
+      "revisar": true,
+      "nombre_local": null,
+      "grupo": {
+        "es": "Delegación Yucatán",
+        "en": "Yucatán delegation"
+      },
+      "sitio_web": "https://www.lockeliving.com/en/cambridge/turing-locke",
+      "foto_credito": "Locke Living / sitio oficial",
+      "foto_fuente_url": "https://www.lockeliving.com/en/cambridge/turing-locke",
+      "foto_licencia": "prensa oficial",
+      "agenda_pagina": 7,
+      "estado": "segun_itinerario",
+      "nota_coordinacion": {
+        "es": "Check-in 25 nov 17:00–17:30; check-out 27 nov 11:00–11:35.",
+        "en": "Check-in 25 Nov 17:00–17:30; check-out 27 Nov 11:00–11:35."
+      },
+      "pendiente_validacion": true,
+      "traduccion": "automatica"
+    },
+    {
+      "id": "h03",
+      "nombre": "Mornington Hotel London Kensington, BW Premier Collection by Best Western",
+      "ciudad": "Londres",
+      "direccion": "19-21 Penywern Road, London, United Kingdom, SW5 9TT",
+      "direccion_local": null,
+      "telefono": null,
+      "checkin": "2026-11-27",
+      "checkout": "2026-11-28",
+      "huespedes": [
+        "p05",
+        "p03",
+        "p04",
+        "p01",
+        "p02"
+      ],
+      "foto": "assets/places/h03.webp",
+      "mapa_url": "https://www.google.com/maps/search/?api=1&query=The+Mornington+Kensington%2C+19-21+Penywern+Road%2C+London",
+      "fuente": "agenda; investigación",
+      "revisar": true,
+      "nombre_local": null,
+      "grupo": {
+        "es": "Delegación Yucatán",
+        "en": "Yucatán delegation"
+      },
+      "sitio_web": "https://mornington.co.uk/mornington-kensington/",
+      "foto_credito": "Mornington Hotel / sitio oficial",
+      "foto_fuente_url": "https://mornington.co.uk/mornington-kensington/",
+      "foto_licencia": "prensa oficial",
+      "agenda_pagina": 18,
+      "estado": "segun_itinerario",
+      "nota_coordinacion": {
+        "es": "Check-in 27 nov 15:15–15:45; check-out 28 nov 11:30–12:00.",
+        "en": "Check-in 27 Nov 15:15–15:45; check-out 28 Nov 11:30–12:00."
+      },
+      "pendiente_validacion": true,
+      "traduccion": "automatica"
+    }
+  ]
+}

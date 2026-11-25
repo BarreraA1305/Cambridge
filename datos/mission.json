@@ -1,0 +1,171 @@
+{
+  "id": "mision-cambridge-ifm-2026",
+  "titulo": "Agenda IFM Cambridge 2026",
+  "titulo_corto": "Cambridge 2026",
+  "organizacion": "Gobierno del Estado de Yucatán",
+  "dependencia": "Secretaría de Economía y Trabajo de Yucatán (SETY)",
+  "etiqueta_delegacion": {
+    "es": "DELEGACIÓN YUCATÁN · CAMBRIDGE 2026",
+    "en": "YUCATÁN DELEGATION · CAMBRIDGE 2026"
+  },
+  "fecha_inicio": "2026-11-23",
+  "fecha_fin": "2026-11-29",
+  "zona_horaria_origen": "America/Merida",
+  "zona_horaria_destino": "Europe/London",
+  "version_agenda": null,
+  "fecha_actualizacion": null,
+  "fecha_preparacion_pagina": "2026-11-24",
+  "objetivo": {
+    "es": "El curso Introduction to Industrial Innovation Policy está diseñado para apoyar a políticos y profesionales en el reto de elaborar y establecer políticas industriales y de innovación, orientadas a fortalecer el liderazgo tecnológico, impulsar la competitividad y promover la prosperidad a largo plazo. A través de sesiones interactivas que combinan conocimientos académicos con experiencias políticas del mundo real a nivel global, el programa proporciona un espacio único para que los asistentes intercambien experiencias y establezcan conexiones con colegas que comparten el interés por avanzar en la competitividad industrial.",
+    "en": "The Introduction to Industrial Innovation Policy course is designed to help policymakers and professionals address the challenge of designing and establishing industrial and innovation policies aimed at strengthening technological leadership, boosting competitiveness and fostering long-term prosperity. Through interactive sessions combining academic knowledge with real-world policy experience from around the world, the programme provides a unique space for participants to exchange experiences and connect with peers who share an interest in advancing industrial competitiveness."
+  },
+  "objetivos_especificos": {
+    "es": [
+      "Conocer los últimos conceptos, marcos e ideas en el área de política industrial e innovación.",
+      "Aplicar marcos de referencia y herramientas prácticas adecuadas para abordar los desafíos clave en el diseño e implementación de políticas efectivas.",
+      "Contrastar experiencias con otros asistentes que comparten un interés común en la industria e innovación."
+    ],
+    "en": [
+      "Learn the latest concepts, frameworks and ideas in industrial policy and innovation.",
+      "Apply appropriate frameworks and practical tools to address key challenges in designing and implementing effective policies.",
+      "Compare experiences with other participants who share a common interest in industry and innovation."
+    ]
+  },
+  "ciudades": [
+    {
+      "id": "c-merida",
+      "nombre": "Mérida",
+      "nombre_local": null,
+      "foto": "assets/places/c-merida.webp",
+      "foto_credito": "Wikimedia Commons / Catedrales e Iglesias",
+      "foto_fuente_url": "https://commons.wikimedia.org/wiki/File:Catedral_de_M%C3%A9rida_(San_Ildefonso)_M%C3%A9rida,_Yucat%C3%A1n,_M%C3%A9xico_-_4.jpg",
+      "foto_licencia": "CC BY 2.0",
+      "enlaces": [
+        {
+          "etiqueta": {
+            "es": "Turismo oficial de Mérida",
+            "en": "Official Mérida tourism"
+          },
+          "url": "https://merida.gob.mx/turismo/"
+        },
+        {
+          "etiqueta": {
+            "es": "Ver en el mapa",
+            "en": "View on map"
+          },
+          "url": "https://www.google.com/maps/search/?api=1&query=M%C3%A9rida%2C+Yucat%C3%A1n%2C+M%C3%A9xico"
+        }
+      ],
+      "fuente": "investigación",
+      "pendiente_validacion": true
+    },
+    {
+      "id": "c-cdmx",
+      "nombre": "Ciudad de México",
+      "nombre_local": null,
+      "foto": "assets/places/c-cdmx.webp",
+      "foto_credito": "Wikimedia Commons / Jonathan Salvador",
+      "foto_fuente_url": "https://commons.wikimedia.org/wiki/File:Mexico_City_Reforma_skyline_(cropped2).jpg",
+      "foto_licencia": "CC BY-SA 4.0",
+      "enlaces": [
+        {
+          "etiqueta": {
+            "es": "Turismo oficial de la CDMX",
+            "en": "Official Mexico City tourism"
+          },
+          "url": "https://www.cdmx.gob.mx/secretarias/secretaria-de-turismo"
+        },
+        {
+          "etiqueta": {
+            "es": "Ver en el mapa",
+            "en": "View on map"
+          },
+          "url": "https://www.google.com/maps/search/?api=1&query=Ciudad+de+M%C3%A9xico%2C+M%C3%A9xico"
+        }
+      ],
+      "fuente": "investigación",
+      "pendiente_validacion": true
+    },
+    {
+      "id": "c-londres",
+      "nombre": "Londres",
+      "nombre_local": "London",
+      "foto": "assets/places/c-londres.webp",
+      "foto_credito": "Wikimedia Commons / Diliff",
+      "foto_fuente_url": "https://commons.wikimedia.org/wiki/File:London_Skyline_from_Waterloo_Bridge,_London,_UK_-_Diliff.jpg",
+      "foto_licencia": "CC BY-SA 3.0",
+      "enlaces": [
+        {
+          "etiqueta": {
+            "es": "Turismo oficial de Londres",
+            "en": "Official London tourism"
+          },
+          "url": "https://www.visitlondon.com/"
+        },
+        {
+          "etiqueta": {
+            "es": "Ver en el mapa",
+            "en": "View on map"
+          },
+          "url": "https://www.google.com/maps/search/?api=1&query=London%2C+United+Kingdom"
+        }
+      ],
+      "fuente": "investigación",
+      "pendiente_validacion": true
+    },
+    {
+      "id": "c-cambridge",
+      "nombre": "Cambridge",
+      "nombre_local": null,
+      "foto": "assets/places/c-cambridge.webp",
+      "foto_credito": "Wikimedia Commons / Suicasmo",
+      "foto_fuente_url": "https://commons.wikimedia.org/wiki/File:Bridge_of_Sighs_(Cambridge)_20160828.jpg",
+      "foto_licencia": "CC BY-SA 4.0",
+      "enlaces": [
+        {
+          "etiqueta": {
+            "es": "Turismo oficial de Cambridge",
+            "en": "Official Cambridge tourism"
+          },
+          "url": "https://www.visitcambridge.org/"
+        },
+        {
+          "etiqueta": {
+            "es": "Ver en el mapa",
+            "en": "View on map"
+          },
+          "url": "https://www.google.com/maps/search/?api=1&query=Cambridge%2C+United+Kingdom"
+        }
+      ],
+      "fuente": "investigación",
+      "pendiente_validacion": true
+    }
+  ],
+  "idioma": "es",
+  "marca": {
+    "logo": "assets/brand/logo-sety.png",
+    "color_principal": "#501524",
+    "color_acento": "#B8995F",
+    "origen_color_principal": "Color institucional guinda documentado en la guía de referencia del Gobierno del Estado de Yucatán.",
+    "origen_color_acento": "Color dorado presente en el logotipo proporcionado en entrada/Inicio/Logo_SETY.png.",
+    "tipografia": "Lato",
+    "tema": "claro"
+  },
+  "pdf_agenda": "documentos/agenda-ifm-cambridge-2026.pdf",
+  "secciones_activas": [
+    "inicio",
+    "agenda",
+    "promocion",
+    "economia",
+    "reuniones",
+    "documentos",
+    "vuelos",
+    "hospedajes"
+  ],
+  "idiomas": [
+    "es",
+    "en"
+  ],
+  "idioma_por_defecto": "es",
+  "version_pagina": "2.1"
+}

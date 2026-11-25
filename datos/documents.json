@@ -1,0 +1,80 @@
+{
+  "documentos": [
+    {
+      "id": "doc01",
+      "titulo": {
+        "es": "Agenda IFM Cambridge 2026",
+        "en": "IFM Cambridge 2026 Agenda"
+      },
+      "categoria": "Agenda",
+      "archivo": "documentos/agenda-ifm-cambridge-2026.pdf",
+      "version": null,
+      "fecha": null,
+      "peso_kb": 3468,
+      "idioma": "es",
+      "publico": false,
+      "vigente": true,
+      "destacado": true,
+      "portada": "assets/previews/agenda-ifm-cambridge-2026.webp",
+      "paginas": 20,
+      "traduccion": "automatica"
+    },
+    {
+      "id": "doc02",
+      "titulo": {
+        "es": "Why invest in Yucatán?",
+        "en": "Why invest in Yucatán?"
+      },
+      "categoria": "Promoción",
+      "archivo": "documentos/invest-in-yucatan-brochure-en.pdf",
+      "version": null,
+      "fecha": null,
+      "peso_kb": 17145,
+      "idioma": "en",
+      "publico": false,
+      "vigente": true,
+      "destacado": false,
+      "portada": "assets/previews/invest-in-yucatan-brochure-en.webp",
+      "paginas": 2,
+      "traduccion": "automatica"
+    },
+    {
+      "id": "doc03",
+      "titulo": {
+        "es": "Invest in Yucatán",
+        "en": "Invest in Yucatán"
+      },
+      "categoria": "Promoción",
+      "archivo": "documentos/invest-in-yucatan-en.pdf",
+      "version": null,
+      "fecha": null,
+      "peso_kb": 5225,
+      "idioma": "en",
+      "publico": false,
+      "vigente": true,
+      "destacado": false,
+      "portada": "assets/previews/invest-in-yucatan-en.webp",
+      "paginas": 24,
+      "traduccion": "automatica"
+    },
+    {
+      "id": "doc04",
+      "titulo": {
+        "es": "Renacimiento Maya",
+        "en": "Maya Renaissance"
+      },
+      "categoria": "Promoción",
+      "archivo": "documentos/renacimiento-maya-en.pdf",
+      "version": null,
+      "fecha": null,
+      "peso_kb": 5203,
+      "idioma": "en",
+      "publico": false,
+      "vigente": true,
+      "destacado": false,
+      "portada": "assets/previews/renacimiento-maya-en.webp",
+      "paginas": 21,
+      "traduccion": "automatica"
+    }
+  ]
+}

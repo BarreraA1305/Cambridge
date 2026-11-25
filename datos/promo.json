@@ -1,0 +1,61 @@
+{
+  "material": [
+    {
+      "id": "pr01",
+      "titulo": {
+        "es": "Why invest in Yucatán?",
+        "en": "Why invest in Yucatán?"
+      },
+      "tipo": "Folleto",
+      "idioma": "en",
+      "archivo": "documentos/invest-in-yucatan-brochure-en.pdf",
+      "descripcion": {
+        "es": "Folleto de dos páginas con ubicación estratégica, conectividad, talento, infraestructura y sectores prioritarios de Yucatán.",
+        "en": "Folleto de dos páginas con ubicación estratégica, conectividad, talento, infraestructura y sectores prioritarios de Yucatán."
+      },
+      "destacado": true,
+      "portada": "assets/previews/invest-in-yucatan-brochure-en.webp",
+      "peso_kb": 17145,
+      "paginas": 2,
+      "traduccion": "automatica"
+    },
+    {
+      "id": "pr02",
+      "titulo": {
+        "es": "Invest in Yucatán",
+        "en": "Invest in Yucatán"
+      },
+      "tipo": "Presentación",
+      "idioma": "en",
+      "archivo": "documentos/invest-in-yucatan-en.pdf",
+      "descripcion": {
+        "es": "Presentación de 24 páginas sobre oportunidades de inversión y proyectos de infraestructura en Yucatán.",
+        "en": "Presentación de 24 páginas sobre oportunidades de inversión y proyectos de infraestructura en Yucatán."
+      },
+      "destacado": false,
+      "portada": "assets/previews/invest-in-yucatan-en.webp",
+      "peso_kb": 5223,
+      "paginas": 24,
+      "traduccion": "automatica"
+    },
+    {
+      "id": "pr03",
+      "titulo": {
+        "es": "Renacimiento Maya: Yucatán, destino estratégico para la inversión",
+        "en": "Renacimiento Maya: Yucatán, destino estratégico para la inversión"
+      },
+      "tipo": "Presentación",
+      "idioma": "en",
+      "archivo": "documentos/renacimiento-maya-en.pdf",
+      "descripcion": {
+        "es": "Presentación de 21 páginas sobre proyectos estratégicos de infraestructura en Yucatán. No se reproducen nombres de autoridades políticas en la web, conforme a la política de contenidos sensibles.",
+        "en": "Presentación de 21 páginas sobre proyectos estratégicos de infraestructura en Yucatán. No se reproducen nombres de autoridades políticas en la web, conforme a la política de contenidos sensibles."
+      },
+      "destacado": false,
+      "portada": "assets/previews/renacimiento-maya-en.webp",
+      "peso_kb": 5203,
+      "paginas": 21,
+      "traduccion": "automatica"
+    }
+  ]
+}

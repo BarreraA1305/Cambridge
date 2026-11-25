@@ -1,0 +1,1089 @@
+{
+  "dias": [
+    {
+      "id": "d01",
+      "fecha": "2026-11-23",
+      "etiqueta": "Día 1",
+      "ciudad": "Mérida",
+      "vestimenta": "Business Casual (zapato cerrado y cómodo)",
+      "clima": {
+        "min": 4,
+        "max": 10,
+        "unidad": "C",
+        "fuente": "Pronóstico impreso en la agenda",
+        "actualizado": null,
+        "revisar": true
+      },
+      "nota": "Salida desde Mérida, escala en la Ciudad de México y vuelo nocturno a Londres.",
+      "actividades": [
+        {
+          "id": "a0101",
+          "inicio": "17:35",
+          "fin": "19:45",
+          "dias_extra_fin": 0,
+          "tipo": "vuelo",
+          "titulo": {
+            "es": "Vuelo de Mérida con destino a la Ciudad de México (AM 837)",
+            "en": "Vuelo de Mérida con destino a la Ciudad de México (AM 837)"
+          },
+          "lugar": "Aeropuerto Internacional de Mérida",
+          "direccion": null,
+          "estado": "confirmado",
+          "empresa_id": null,
+          "hotel_id": null,
+          "notas": "",
+          "fuente": "agenda",
+          "zona_inicio": "America/Merida",
+          "zona_fin": "America/Mexico_City",
+          "traduccion": "automatica"
+        },
+        {
+          "id": "a0102",
+          "inicio": "22:20",
+          "fin": "15:05",
+          "dias_extra_fin": 1,
+          "tipo": "vuelo",
+          "titulo": {
+            "es": "Vuelo de Ciudad de México con destino al Aeropuerto Internacional de Londres Heathrow (AM 7, Terminal 2)",
+            "en": "Vuelo de Ciudad de México con destino al Aeropuerto Internacional de Londres Heathrow (AM 7, Terminal 2)"
+          },
+          "lugar": "Aeropuerto Internacional de la Ciudad de México",
+          "direccion": null,
+          "estado": "confirmado",
+          "empresa_id": null,
+          "hotel_id": null,
+          "notas": {
+            "es": "La hora de salida es local de la Ciudad de México; la hora de llegada es local de Londres del día siguiente.",
+            "en": "La hora de salida es local de la Ciudad de México; la hora de llegada es local de Londres del día siguiente."
+          },
+          "fuente": "agenda",
+          "zona_inicio": "America/Mexico_City",
+          "zona_fin": "Europe/London",
+          "traduccion": "automatica"
+        }
+      ]
+    },
+    {
+      "id": "d02",
+      "fecha": "2026-11-24",
+      "etiqueta": "Día 2",
+      "ciudad": "Londres",
+      "vestimenta": "Business Casual (zapato cerrado y cómodo)",
+      "clima": {
+        "min": 4,
+        "max": 10,
+        "unidad": "C",
+        "fuente": "Pronóstico impreso en la agenda",
+        "actualizado": null,
+        "revisar": true
+      },
+      "nota": "Llegada a Londres y check-in en The Voyage Hotel Paddington.",
+      "actividades": [
+        {
+          "id": "a0201",
+          "inicio": "15:05",
+          "fin": null,
+          "dias_extra_fin": 0,
+          "tipo": "aeropuerto",
+          "titulo": {
+            "es": "Llegada al Aeropuerto Internacional de Londres Heathrow (AM 7, Terminal 3)",
+            "en": "Llegada al Aeropuerto Internacional de Londres Heathrow (AM 7, Terminal 3)"
+          },
+          "lugar": "Aeropuerto de Londres-Heathrow",
+          "direccion": null,
+          "estado": "confirmado",
+          "empresa_id": null,
+          "hotel_id": null,
+          "notas": "",
+          "fuente": "agenda",
+          "zona": "Europe/London",
+          "traduccion": "automatica"
+        },
+        {
+          "id": "a0202",
+          "inicio": "15:15",
+          "fin": "16:00",
+          "dias_extra_fin": 0,
+          "tipo": "otro",
+          "titulo": {
+            "es": "Recepción de equipaje",
+            "en": "Recepción de equipaje"
+          },
+          "lugar": "Aeropuerto Internacional de Londres Heathrow",
+          "direccion": null,
+          "estado": "confirmado",
+          "empresa_id": null,
+          "hotel_id": null,
+          "notas": "",
+          "fuente": "Documento complementario: FI - Consideraciones de viaje a Cambridge.docx",
+          "traduccion": "automatica"
+        },
+        {
+          "id": "a0203",
+          "inicio": "16:00",
+          "fin": "17:15",
+          "dias_extra_fin": 0,
+          "tipo": "traslado",
+          "titulo": {
+            "es": "Traslado del aeropuerto de Londres Heathrow al hotel The Voyage Hotel Paddington (90 minutos)",
+            "en": "Traslado del aeropuerto de Londres Heathrow al hotel The Voyage Hotel Paddington (90 minutos)"
+          },
+          "lugar": "Londres",
+          "direccion": null,
+          "estado": "confirmado",
+          "empresa_id": null,
+          "hotel_id": null,
+          "notas": "",
+          "fuente": "Documento complementario: FI - Consideraciones de viaje a Cambridge.docx",
+          "traduccion": "automatica"
+        },
+        {
+          "id": "a0204",
+          "inicio": "17:30",
+          "fin": "18:00",
+          "dias_extra_fin": 0,
+          "tipo": "checkin",
+          "titulo": {
+            "es": "Check in en The Voyage Hotel Paddington",
+            "en": "Check in en The Voyage Hotel Paddington"
+          },
+          "lugar": "The Voyage Hotel Paddington, Sonder",
+          "direccion": null,
+          "estado": "confirmado",
+          "empresa_id": null,
+          "hotel_id": "h01",
+          "notas": "",
+          "fuente": "agenda",
+          "traduccion": "automatica"
+        }
+      ]
+    },
+    {
+      "id": "d03",
+      "fecha": "2026-11-25",
+      "etiqueta": "Día 3",
+      "ciudad": "Cambridge",
+      "vestimenta": "Business Casual (zapato cerrado y cómodo)",
+      "clima": {
+        "min": 4,
+        "max": 10,
+        "unidad": "C",
+        "fuente": "Pronóstico impreso en la agenda",
+        "actualizado": null,
+        "revisar": true
+      },
+      "nota": "Primer día del curso Introduction to Industrial Innovation Policy, de 10:00 a 16:30.",
+      "actividades": [
+        {
+          "id": "a0301",
+          "inicio": "04:20",
+          "fin": "05:00",
+          "dias_extra_fin": 0,
+          "tipo": "checkout",
+          "titulo": {
+            "es": "Salida del hotel The Voyage Hotel Paddington",
+            "en": "Salida del hotel The Voyage Hotel Paddington"
+          },
+          "lugar": "The Voyage Hotel Paddington, Sonder",
+          "direccion": null,
+          "estado": "confirmado",
+          "empresa_id": null,
+          "hotel_id": "h01",
+          "notas": {
+            "es": "Horario del documento 'minuto a minuto'; el comprobante de reservación indica check-out a las 11:00.",
+            "en": "Horario del documento 'minuto a minuto'; el comprobante de reservación indica check-out a las 11:00."
+          },
+          "fuente": "Documento complementario: FI - Consideraciones de viaje a Cambridge.docx",
+          "revisar": true,
+          "traduccion": "automatica"
+        },
+        {
+          "id": "a0302",
+          "inicio": "05:00",
+          "fin": "05:45",
+          "dias_extra_fin": 0,
+          "tipo": "traslado",
+          "titulo": {
+            "es": "Traslado del hotel a la estación King's Cross",
+            "en": "Traslado del hotel a la estación King's Cross"
+          },
+          "lugar": "King's Cross Train Station",
+          "direccion": null,
+          "estado": "confirmado",
+          "empresa_id": null,
+          "hotel_id": null,
+          "notas": "",
+          "fuente": "Documento complementario: FI - Consideraciones de viaje a Cambridge.docx",
+          "traduccion": "automatica"
+        },
+        {
+          "id": "a0303",
+          "inicio": "05:45",
+          "fin": "07:15",
+          "dias_extra_fin": 0,
+          "tipo": "traslado",
+          "titulo": {
+            "es": "Tren de Londres a Cambridge",
+            "en": "Tren de Londres a Cambridge"
+          },
+          "lugar": "King's Cross Train Station → Cambridge South",
+          "direccion": null,
+          "estado": "confirmado",
+          "empresa_id": null,
+          "hotel_id": null,
+          "notas": "",
+          "fuente": "Documento complementario: FI - Consideraciones de viaje a Cambridge.docx",
+          "traduccion": "automatica"
+        },
+        {
+          "id": "a0304",
+          "inicio": "07:15",
+          "fin": "07:45",
+          "dias_extra_fin": 0,
+          "tipo": "traslado",
+          "titulo": {
+            "es": "Traslado de la estación de Cambridge al hotel",
+            "en": "Traslado de la estación de Cambridge al hotel"
+          },
+          "lugar": "Cambridge South → Turing Locke",
+          "direccion": null,
+          "estado": "confirmado",
+          "empresa_id": null,
+          "hotel_id": null,
+          "notas": "",
+          "fuente": "Documento complementario: FI - Consideraciones de viaje a Cambridge.docx",
+          "traduccion": "automatica"
+        },
+        {
+          "id": "a0305",
+          "inicio": "07:45",
+          "fin": "08:45",
+          "dias_extra_fin": 0,
+          "tipo": "otro",
+          "titulo": {
+            "es": "Llegada al hotel Turing Locke",
+            "en": "Llegada al hotel Turing Locke"
+          },
+          "lugar": "Turing Locke, Cambridge",
+          "direccion": null,
+          "estado": "confirmado",
+          "empresa_id": null,
+          "hotel_id": "h02",
+          "notas": {
+            "es": "Llegada anticipada; el check-in formal registrado en la agenda es a las 17:00.",
+            "en": "Llegada anticipada; el check-in formal registrado en la agenda es a las 17:00."
+          },
+          "fuente": "Documento complementario: FI - Consideraciones de viaje a Cambridge.docx",
+          "traduccion": "automatica"
+        },
+        {
+          "id": "a0306",
+          "inicio": "08:45",
+          "fin": "09:15",
+          "dias_extra_fin": 0,
+          "tipo": "traslado",
+          "titulo": {
+            "es": "Traslado del hotel al IfM",
+            "en": "Traslado del hotel al IfM"
+          },
+          "lugar": "Turing Locke → Institute for Manufacturing",
+          "direccion": null,
+          "estado": "confirmado",
+          "empresa_id": null,
+          "hotel_id": null,
+          "notas": "",
+          "fuente": "Documento complementario: FI - Consideraciones de viaje a Cambridge.docx",
+          "traduccion": "automatica"
+        },
+        {
+          "id": "a0307",
+          "inicio": "09:15",
+          "fin": "10:00",
+          "dias_extra_fin": 0,
+          "tipo": "traslado",
+          "titulo": {
+            "es": "Llegada al Møller Institute",
+            "en": "Llegada al Møller Institute"
+          },
+          "lugar": "Møller Institute - University of Cambridge",
+          "direccion": null,
+          "estado": "confirmado",
+          "empresa_id": null,
+          "hotel_id": null,
+          "notas": "",
+          "fuente": "Documento complementario: FI - Consideraciones de viaje a Cambridge.docx",
+          "traduccion": "automatica"
+        },
+        {
+          "id": "a0310",
+          "inicio": "10:00",
+          "fin": "10:15",
+          "dias_extra_fin": 0,
+          "tipo": "reunion",
+          "titulo": {
+            "es": "Bienvenida y presentación general del curso",
+            "en": "Bienvenida y presentación general del curso"
+          },
+          "lugar": "Møller Institute - University of Cambridge",
+          "direccion": null,
+          "estado": "confirmado",
+          "empresa_id": "e01",
+          "hotel_id": null,
+          "notas": "",
+          "fuente": "agenda",
+          "traduccion": "automatica"
+        },
+        {
+          "id": "a0311",
+          "inicio": "10:15",
+          "fin": "11:00",
+          "dias_extra_fin": 0,
+          "tipo": "reunion",
+          "titulo": {
+            "es": "Sesión 1. Contexto general: integración de las perspectivas de política “industrial” y de “innovación”",
+            "en": "Sesión 1. Contexto general: integración de las perspectivas de política “industrial” y de “innovación”"
+          },
+          "lugar": "Møller Institute - University of Cambridge",
+          "direccion": null,
+          "estado": "confirmado",
+          "empresa_id": "e01",
+          "hotel_id": null,
+          "notas": "",
+          "fuente": "agenda",
+          "traduccion": "automatica"
+        },
+        {
+          "id": "a0312",
+          "inicio": "11:00",
+          "fin": "11:10",
+          "dias_extra_fin": 0,
+          "tipo": "descanso",
+          "titulo": {
+            "es": "Break",
+            "en": "Break"
+          },
+          "lugar": "Møller Institute - University of Cambridge",
+          "direccion": null,
+          "estado": "confirmado",
+          "empresa_id": null,
+          "hotel_id": null,
+          "notas": "",
+          "fuente": "agenda",
+          "traduccion": "automatica"
+        },
+        {
+          "id": "a0313",
+          "inicio": "11:10",
+          "fin": "11:45",
+          "dias_extra_fin": 0,
+          "tipo": "reunion",
+          "titulo": {
+            "es": "Ejercicio 1. Identificación y análisis de problemas de política pública y presentaciones de los participantes",
+            "en": "Ejercicio 1. Identificación y análisis de problemas de política pública y presentaciones de los participantes"
+          },
+          "lugar": "Møller Institute - University of Cambridge",
+          "direccion": null,
+          "estado": "confirmado",
+          "empresa_id": "e01",
+          "hotel_id": null,
+          "notas": "",
+          "fuente": "agenda",
+          "traduccion": "automatica"
+        },
+        {
+          "id": "a0314",
+          "inicio": "11:45",
+          "fin": "12:45",
+          "dias_extra_fin": 0,
+          "tipo": "reunion",
+          "titulo": {
+            "es": "Sesión 2. ¿Por qué es importante la política de innovación industrial?",
+            "en": "Sesión 2. ¿Por qué es importante la política de innovación industrial?"
+          },
+          "lugar": "Møller Institute - University of Cambridge",
+          "direccion": null,
+          "estado": "confirmado",
+          "empresa_id": "e01",
+          "hotel_id": null,
+          "notas": "",
+          "fuente": "agenda",
+          "traduccion": "automatica"
+        },
+        {
+          "id": "a0315",
+          "inicio": "12:45",
+          "fin": "14:15",
+          "dias_extra_fin": 0,
+          "tipo": "comida",
+          "titulo": {
+            "es": "Lunch, servido en el Moller Institute",
+            "en": "Lunch, servido en el Moller Institute"
+          },
+          "lugar": "Møller Institute - University of Cambridge",
+          "direccion": null,
+          "estado": "confirmado",
+          "empresa_id": null,
+          "hotel_id": null,
+          "notas": "",
+          "fuente": "agenda",
+          "traduccion": "automatica"
+        },
+        {
+          "id": "a0316",
+          "inicio": "14:15",
+          "fin": "15:15",
+          "dias_extra_fin": 0,
+          "tipo": "reunion",
+          "titulo": {
+            "es": "Sesión 3. Entendiendo los sistemas industriales y de innovación modernos",
+            "en": "Sesión 3. Entendiendo los sistemas industriales y de innovación modernos"
+          },
+          "lugar": "Møller Institute - University of Cambridge",
+          "direccion": null,
+          "estado": "confirmado",
+          "empresa_id": "e01",
+          "hotel_id": null,
+          "notas": "",
+          "fuente": "agenda",
+          "traduccion": "automatica"
+        },
+        {
+          "id": "a0317",
+          "inicio": "15:15",
+          "fin": "15:25",
+          "dias_extra_fin": 0,
+          "tipo": "descanso",
+          "titulo": {
+            "es": "Break",
+            "en": "Break"
+          },
+          "lugar": "Møller Institute - University of Cambridge",
+          "direccion": null,
+          "estado": "confirmado",
+          "empresa_id": null,
+          "hotel_id": null,
+          "notas": "",
+          "fuente": "agenda",
+          "traduccion": "automatica"
+        },
+        {
+          "id": "a0318",
+          "inicio": "15:25",
+          "fin": "16:15",
+          "dias_extra_fin": 0,
+          "tipo": "reunion",
+          "titulo": {
+            "es": "Ejercicio 2. Análisis de los sistemas industriales y de innovación modernos",
+            "en": "Ejercicio 2. Análisis de los sistemas industriales y de innovación modernos"
+          },
+          "lugar": "Møller Institute - University of Cambridge",
+          "direccion": null,
+          "estado": "confirmado",
+          "empresa_id": "e01",
+          "hotel_id": null,
+          "notas": "",
+          "fuente": "agenda",
+          "traduccion": "automatica"
+        },
+        {
+          "id": "a0319",
+          "inicio": "16:15",
+          "fin": "16:30",
+          "dias_extra_fin": 0,
+          "tipo": "reunion",
+          "titulo": {
+            "es": "Cierre y reflexión del primer día",
+            "en": "Cierre y reflexión del primer día"
+          },
+          "lugar": "Møller Institute - University of Cambridge",
+          "direccion": null,
+          "estado": "confirmado",
+          "empresa_id": "e01",
+          "hotel_id": null,
+          "notas": "",
+          "fuente": "agenda",
+          "traduccion": "automatica"
+        },
+        {
+          "id": "a0320",
+          "inicio": "17:00",
+          "fin": "17:30",
+          "dias_extra_fin": 0,
+          "tipo": "checkin",
+          "titulo": {
+            "es": "Check in en el hotel Turing Locke Cambridge",
+            "en": "Check in en el hotel Turing Locke Cambridge"
+          },
+          "lugar": "Turing Locke, Cambridge",
+          "direccion": null,
+          "estado": "confirmado",
+          "empresa_id": null,
+          "hotel_id": "h02",
+          "notas": "",
+          "fuente": "agenda",
+          "traduccion": "automatica"
+        },
+        {
+          "id": "a0321",
+          "inicio": "19:00",
+          "fin": "20:30",
+          "dias_extra_fin": 0,
+          "tipo": "cena",
+          "titulo": {
+            "es": "Cena en el colegio Trinity Hall, entrada por Trinity Lane",
+            "en": "Cena en el colegio Trinity Hall, entrada por Trinity Lane"
+          },
+          "lugar": "Trinity Hall",
+          "direccion": "Trinity Lane, Cambridge",
+          "estado": "confirmado",
+          "empresa_id": null,
+          "hotel_id": null,
+          "notas": "",
+          "fuente": "agenda",
+          "traduccion": "automatica"
+        }
+      ]
+    },
+    {
+      "id": "d04",
+      "fecha": "2026-11-26",
+      "etiqueta": "Día 4",
+      "ciudad": "Cambridge",
+      "vestimenta": "Business Casual (zapato cerrado y cómodo)",
+      "clima": {
+        "min": 4,
+        "max": 10,
+        "unidad": "C",
+        "fuente": "Pronóstico impreso en la agenda",
+        "actualizado": null,
+        "revisar": true
+      },
+      "nota": "Segundo día del curso, de 09:30 a 15:50.",
+      "actividades": [
+        {
+          "id": "a0401",
+          "inicio": "08:00",
+          "fin": "09:30",
+          "dias_extra_fin": 0,
+          "tipo": "traslado",
+          "titulo": {
+            "es": "Traslado del hotel al Møller Institute (a pie)",
+            "en": "Traslado del hotel al Møller Institute (a pie)"
+          },
+          "lugar": "Turing Locke → Møller Institute",
+          "direccion": null,
+          "estado": "confirmado",
+          "empresa_id": null,
+          "hotel_id": null,
+          "notas": "",
+          "fuente": "Documento complementario: FI - Consideraciones de viaje a Cambridge.docx",
+          "traduccion": "automatica"
+        },
+        {
+          "id": "a0402",
+          "inicio": "09:30",
+          "fin": "09:45",
+          "dias_extra_fin": 0,
+          "tipo": "reunion",
+          "titulo": {
+            "es": "Repaso y presentación general del segundo día",
+            "en": "Repaso y presentación general del segundo día"
+          },
+          "lugar": "Møller Institute - University of Cambridge",
+          "direccion": null,
+          "estado": "confirmado",
+          "empresa_id": "e01",
+          "hotel_id": null,
+          "notas": "",
+          "fuente": "agenda",
+          "traduccion": "automatica"
+        },
+        {
+          "id": "a0403",
+          "inicio": "09:45",
+          "fin": "10:30",
+          "dias_extra_fin": 0,
+          "tipo": "reunion",
+          "titulo": {
+            "es": "Sesión 4. Ciclo de políticas públicas e instrumentos de política",
+            "en": "Sesión 4. Ciclo de políticas públicas e instrumentos de política"
+          },
+          "lugar": "Møller Institute - University of Cambridge",
+          "direccion": null,
+          "estado": "confirmado",
+          "empresa_id": "e01",
+          "hotel_id": null,
+          "notas": "",
+          "fuente": "agenda",
+          "traduccion": "automatica"
+        },
+        {
+          "id": "a0404",
+          "inicio": "10:30",
+          "fin": "11:10",
+          "dias_extra_fin": 0,
+          "tipo": "reunion",
+          "titulo": {
+            "es": "Ejercicio 3 (parte 1). Taller de diseño integrado de políticas y construcción de un modelo lógico",
+            "en": "Ejercicio 3 (parte 1). Taller de diseño integrado de políticas y construcción de un modelo lógico"
+          },
+          "lugar": "Møller Institute - University of Cambridge",
+          "direccion": null,
+          "estado": "confirmado",
+          "empresa_id": "e01",
+          "hotel_id": null,
+          "notas": "",
+          "fuente": "agenda",
+          "traduccion": "automatica"
+        },
+        {
+          "id": "a0405",
+          "inicio": "11:10",
+          "fin": "11:20",
+          "dias_extra_fin": 0,
+          "tipo": "descanso",
+          "titulo": {
+            "es": "Break",
+            "en": "Break"
+          },
+          "lugar": "Møller Institute - University of Cambridge",
+          "direccion": null,
+          "estado": "confirmado",
+          "empresa_id": null,
+          "hotel_id": null,
+          "notas": "",
+          "fuente": "agenda",
+          "traduccion": "automatica"
+        },
+        {
+          "id": "a0406",
+          "inicio": "11:20",
+          "fin": "11:40",
+          "dias_extra_fin": 0,
+          "tipo": "reunion",
+          "titulo": {
+            "es": "Sesión 5. Modelos lógicos y teoría del cambio",
+            "en": "Sesión 5. Modelos lógicos y teoría del cambio"
+          },
+          "lugar": "Møller Institute - University of Cambridge",
+          "direccion": null,
+          "estado": "confirmado",
+          "empresa_id": "e01",
+          "hotel_id": null,
+          "notas": "",
+          "fuente": "agenda",
+          "traduccion": "automatica"
+        },
+        {
+          "id": "a0407",
+          "inicio": "11:40",
+          "fin": "12:30",
+          "dias_extra_fin": 0,
+          "tipo": "reunion",
+          "titulo": {
+            "es": "Ejercicio 3 (parte 2). Taller de diseño integrado de políticas y construcción de un modelo lógico",
+            "en": "Ejercicio 3 (parte 2). Taller de diseño integrado de políticas y construcción de un modelo lógico"
+          },
+          "lugar": "Møller Institute - University of Cambridge",
+          "direccion": null,
+          "estado": "confirmado",
+          "empresa_id": "e01",
+          "hotel_id": null,
+          "notas": "",
+          "fuente": "agenda",
+          "traduccion": "automatica"
+        },
+        {
+          "id": "a0408",
+          "inicio": "12:30",
+          "fin": "13:15",
+          "dias_extra_fin": 0,
+          "tipo": "comida",
+          "titulo": {
+            "es": "Lunch, servido en el Moller Institute",
+            "en": "Lunch, servido en el Moller Institute"
+          },
+          "lugar": "Møller Institute - University of Cambridge",
+          "direccion": null,
+          "estado": "confirmado",
+          "empresa_id": null,
+          "hotel_id": null,
+          "notas": "",
+          "fuente": "agenda",
+          "traduccion": "automatica"
+        },
+        {
+          "id": "a0409",
+          "inicio": "13:15",
+          "fin": "14:00",
+          "dias_extra_fin": 0,
+          "tipo": "reunion",
+          "titulo": {
+            "es": "Sesión 6 (parte 1). Ejemplos internacionales de política industrial e innovación: Estados Unidos",
+            "en": "Sesión 6 (parte 1). Ejemplos internacionales de política industrial e innovación: Estados Unidos"
+          },
+          "lugar": "Møller Institute - University of Cambridge",
+          "direccion": null,
+          "estado": "confirmado",
+          "empresa_id": "e01",
+          "hotel_id": null,
+          "notas": "",
+          "fuente": "agenda",
+          "traduccion": "automatica"
+        },
+        {
+          "id": "a0410",
+          "inicio": "14:00",
+          "fin": "14:10",
+          "dias_extra_fin": 0,
+          "tipo": "descanso",
+          "titulo": {
+            "es": "Break",
+            "en": "Break"
+          },
+          "lugar": "Møller Institute - University of Cambridge",
+          "direccion": null,
+          "estado": "confirmado",
+          "empresa_id": null,
+          "hotel_id": null,
+          "notas": "",
+          "fuente": "agenda",
+          "traduccion": "automatica"
+        },
+        {
+          "id": "a0411",
+          "inicio": "14:10",
+          "fin": "15:10",
+          "dias_extra_fin": 0,
+          "tipo": "reunion",
+          "titulo": {
+            "es": "Sesión 6 (parte 2). Ejemplos internacionales de política industrial e innovación: Unión Europea y China",
+            "en": "Sesión 6 (parte 2). Ejemplos internacionales de política industrial e innovación: Unión Europea y China"
+          },
+          "lugar": "Møller Institute - University of Cambridge",
+          "direccion": null,
+          "estado": "confirmado",
+          "empresa_id": "e01",
+          "hotel_id": null,
+          "notas": "",
+          "fuente": "agenda",
+          "traduccion": "automatica"
+        },
+        {
+          "id": "a0412",
+          "inicio": "15:10",
+          "fin": "15:50",
+          "dias_extra_fin": 0,
+          "tipo": "reunion",
+          "titulo": {
+            "es": "Reflexión final y próximos pasos",
+            "en": "Reflexión final y próximos pasos"
+          },
+          "lugar": "Møller Institute - University of Cambridge",
+          "direccion": null,
+          "estado": "confirmado",
+          "empresa_id": "e01",
+          "hotel_id": null,
+          "notas": "",
+          "fuente": "agenda",
+          "traduccion": "automatica"
+        },
+        {
+          "id": "a0413",
+          "inicio": "16:00",
+          "fin": "17:00",
+          "dias_extra_fin": 0,
+          "tipo": "traslado",
+          "titulo": {
+            "es": "Traslado del Møller Institute al hotel",
+            "en": "Traslado del Møller Institute al hotel"
+          },
+          "lugar": "Møller Institute → Turing Locke",
+          "direccion": null,
+          "estado": "confirmado",
+          "empresa_id": null,
+          "hotel_id": null,
+          "notas": {
+            "es": "El documento 'minuto a minuto' reproduce este traslado también de 16:30 a 17:00; se conserva una sola versión.",
+            "en": "El documento 'minuto a minuto' reproduce este traslado también de 16:30 a 17:00; se conserva una sola versión."
+          },
+          "fuente": "Documento complementario: FI - Consideraciones de viaje a Cambridge.docx",
+          "traduccion": "automatica"
+        }
+      ]
+    },
+    {
+      "id": "d05",
+      "fecha": "2026-11-27",
+      "etiqueta": "Día 5",
+      "ciudad": "Londres",
+      "vestimenta": "Business Casual (zapato cerrado y cómodo)",
+      "clima": {
+        "min": 4,
+        "max": 10,
+        "unidad": "C",
+        "fuente": "Pronóstico impreso en la agenda",
+        "actualizado": null,
+        "revisar": true
+      },
+      "nota": "Traslado de Cambridge a Londres y check-in en el hotel Mornington.",
+      "actividades": [
+        {
+          "id": "a0501",
+          "inicio": "11:00",
+          "fin": "11:35",
+          "dias_extra_fin": 0,
+          "tipo": "checkout",
+          "titulo": {
+            "es": "Check out en el hotel Turing Locke Cambridge",
+            "en": "Check out en el hotel Turing Locke Cambridge"
+          },
+          "lugar": "Turing Locke, Cambridge",
+          "direccion": null,
+          "estado": "confirmado",
+          "empresa_id": null,
+          "hotel_id": "h02",
+          "notas": "",
+          "fuente": "agenda",
+          "traduccion": "automatica"
+        },
+        {
+          "id": "a0502",
+          "inicio": "11:35",
+          "fin": "12:15",
+          "dias_extra_fin": 0,
+          "tipo": "traslado",
+          "titulo": {
+            "es": "Traslado del hotel a la estación",
+            "en": "Traslado del hotel a la estación"
+          },
+          "lugar": "Turing Locke → Cambridge South",
+          "direccion": null,
+          "estado": "confirmado",
+          "empresa_id": null,
+          "hotel_id": null,
+          "notas": "",
+          "fuente": "Documento complementario: FI - Consideraciones de viaje a Cambridge.docx",
+          "traduccion": "automatica"
+        },
+        {
+          "id": "a0503",
+          "inicio": "12:15",
+          "fin": "14:15",
+          "dias_extra_fin": 0,
+          "tipo": "traslado",
+          "titulo": {
+            "es": "Traslado de Cambridge a Londres",
+            "en": "Traslado de Cambridge a Londres"
+          },
+          "lugar": "Cambridge South → Londres",
+          "direccion": null,
+          "estado": "confirmado",
+          "empresa_id": null,
+          "hotel_id": null,
+          "notas": "",
+          "fuente": "Documento complementario: FI - Consideraciones de viaje a Cambridge.docx",
+          "traduccion": "automatica"
+        },
+        {
+          "id": "a0504",
+          "inicio": "14:15",
+          "fin": "15:15",
+          "dias_extra_fin": 0,
+          "tipo": "traslado",
+          "titulo": {
+            "es": "Traslado de la estación al hotel",
+            "en": "Traslado de la estación al hotel"
+          },
+          "lugar": "Londres → Mornington Hotel",
+          "direccion": null,
+          "estado": "confirmado",
+          "empresa_id": null,
+          "hotel_id": null,
+          "notas": "",
+          "fuente": "Documento complementario: FI - Consideraciones de viaje a Cambridge.docx",
+          "traduccion": "automatica"
+        },
+        {
+          "id": "a0505",
+          "inicio": "15:15",
+          "fin": "15:45",
+          "dias_extra_fin": 0,
+          "tipo": "checkin",
+          "titulo": {
+            "es": "Check in en el Mornington Hotel London, Kensington",
+            "en": "Check in en el Mornington Hotel London, Kensington"
+          },
+          "lugar": "Mornington London Kensington, BW Premier Collection by Best Western",
+          "direccion": null,
+          "estado": "confirmado",
+          "empresa_id": null,
+          "hotel_id": "h03",
+          "notas": "",
+          "fuente": "agenda",
+          "traduccion": "automatica"
+        }
+      ]
+    },
+    {
+      "id": "d06",
+      "fecha": "2026-11-28",
+      "etiqueta": "Día 6",
+      "ciudad": "Londres",
+      "vestimenta": "Business Casual (zapato cerrado y cómodo)",
+      "clima": {
+        "min": 4,
+        "max": 10,
+        "unidad": "C",
+        "fuente": "Pronóstico impreso en la agenda",
+        "actualizado": null,
+        "revisar": true
+      },
+      "nota": "Salida de Londres hacia la Ciudad de México en vuelo nocturno.",
+      "actividades": [
+        {
+          "id": "a0601",
+          "inicio": "11:30",
+          "fin": "12:00",
+          "dias_extra_fin": 0,
+          "tipo": "checkout",
+          "titulo": {
+            "es": "Check out en el Mornington Hotel London, Kensington",
+            "en": "Check out en el Mornington Hotel London, Kensington"
+          },
+          "lugar": "Mornington London Kensington, BW Premier Collection by Best Western",
+          "direccion": null,
+          "estado": "confirmado",
+          "empresa_id": null,
+          "hotel_id": "h03",
+          "notas": "",
+          "fuente": "agenda",
+          "traduccion": "automatica"
+        },
+        {
+          "id": "a0602",
+          "inicio": "18:00",
+          "fin": "19:30",
+          "dias_extra_fin": 0,
+          "tipo": "traslado",
+          "titulo": {
+            "es": "Traslado del hotel al aeropuerto de Londres Heathrow",
+            "en": "Traslado del hotel al aeropuerto de Londres Heathrow"
+          },
+          "lugar": "Mornington Hotel → Londres Heathrow",
+          "direccion": null,
+          "estado": "confirmado",
+          "empresa_id": null,
+          "hotel_id": null,
+          "notas": "",
+          "fuente": "Documento complementario: FI - Consideraciones de viaje a Cambridge.docx",
+          "traduccion": "automatica"
+        },
+        {
+          "id": "a0603",
+          "inicio": "19:30",
+          "fin": "22:30",
+          "dias_extra_fin": 0,
+          "tipo": "otro",
+          "titulo": {
+            "es": "Documentación y abordaje",
+            "en": "Documentación y abordaje"
+          },
+          "lugar": "Aeropuerto de Londres Heathrow, Terminal 3",
+          "direccion": null,
+          "estado": "confirmado",
+          "empresa_id": null,
+          "hotel_id": null,
+          "notas": "",
+          "fuente": "Documento complementario: FI - Consideraciones de viaje a Cambridge.docx",
+          "traduccion": "automatica"
+        },
+        {
+          "id": "a0604",
+          "inicio": "22:30",
+          "fin": "04:20",
+          "dias_extra_fin": 1,
+          "tipo": "vuelo",
+          "titulo": {
+            "es": "Abordaje: de Londres Heathrow, Reino Unido, con destino a la Ciudad de México (AM 8, Terminal 3)",
+            "en": "Abordaje: de Londres Heathrow, Reino Unido, con destino a la Ciudad de México (AM 8, Terminal 3)"
+          },
+          "lugar": "Aeropuerto de Londres-Heathrow",
+          "direccion": null,
+          "estado": "confirmado",
+          "empresa_id": null,
+          "hotel_id": null,
+          "notas": {
+            "es": "La llegada a la Ciudad de México ocurre el 29 de noviembre a las 04:20, hora local.",
+            "en": "La llegada a la Ciudad de México ocurre el 29 de noviembre a las 04:20, hora local."
+          },
+          "fuente": "agenda",
+          "zona_inicio": "Europe/London",
+          "zona_fin": "America/Mexico_City",
+          "traduccion": "automatica"
+        }
+      ]
+    },
+    {
+      "id": "d07",
+      "fecha": "2026-11-29",
+      "etiqueta": "Día 7",
+      "ciudad": "Mérida",
+      "vestimenta": "Business Casual (zapato cerrado y cómodo)",
+      "clima": {
+        "min": 4,
+        "max": 10,
+        "unidad": "C",
+        "fuente": "Pronóstico impreso en la agenda",
+        "actualizado": null,
+        "revisar": true
+      },
+      "nota": "Regreso a Mérida vía Ciudad de México.",
+      "actividades": [
+        {
+          "id": "a0701",
+          "inicio": "04:20",
+          "fin": "07:20",
+          "dias_extra_fin": 0,
+          "tipo": "traslado",
+          "titulo": {
+            "es": "Transbordo de la Ciudad de México a Mérida",
+            "en": "Transbordo de la Ciudad de México a Mérida"
+          },
+          "lugar": "Ciudad de México → Mérida",
+          "direccion": null,
+          "estado": "confirmado",
+          "empresa_id": null,
+          "hotel_id": null,
+          "notas": "",
+          "fuente": "Documento complementario: FI - Consideraciones de viaje a Cambridge.docx",
+          "traduccion": "automatica"
+        },
+        {
+          "id": "a0702",
+          "inicio": "07:50",
+          "fin": "10:00",
+          "dias_extra_fin": 0,
+          "tipo": "vuelo",
+          "titulo": {
+            "es": "Abordaje: de Ciudad de México con destino a Mérida (AM 822, Terminal 2)",
+            "en": "Abordaje: de Ciudad de México con destino a Mérida (AM 822, Terminal 2)"
+          },
+          "lugar": "Aeropuerto Internacional de la Ciudad de México",
+          "direccion": null,
+          "estado": "confirmado",
+          "empresa_id": null,
+          "hotel_id": null,
+          "notas": {
+            "es": "La reservación indica llegada a las 10:02; se conserva 10:00 por ser el valor de la agenda oficial.",
+            "en": "La reservación indica llegada a las 10:02; se conserva 10:00 por ser el valor de la agenda oficial."
+          },
+          "fuente": "agenda",
+          "zona_inicio": "America/Mexico_City",
+          "zona_fin": "America/Merida",
+          "traduccion": "automatica"
+        }
+      ]
+    }
+  ]
+}

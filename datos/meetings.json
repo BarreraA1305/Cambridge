@@ -1,0 +1,672 @@
+{
+  "empresas": [
+    {
+      "id": "e01",
+      "nombre": "Institute for Manufacturing (IfM) · IfM Engage",
+      "logo": null,
+      "sector": {
+        "es": "Política industrial e innovación",
+        "en": "Política industrial e innovación"
+      },
+      "ciudad": "Cambridge, Reino Unido",
+      "sitio_web": "https://www.ifm.eng.cam.ac.uk/",
+      "descripcion": {
+        "es": "Cuerpo académico del curso Introduction to Industrial Innovation Policy, impartido los días 25 y 26 de noviembre de 2026. El curso apoya a políticos y profesionales en el diseño de políticas industriales y de innovación.",
+        "en": "Cuerpo académico del curso Introduction to Industrial Innovation Policy, impartido los días 25 y 26 de noviembre de 2026. El curso apoya a políticos y profesionales en el diseño de políticas industriales y de innovación."
+      },
+      "instalaciones": [
+        "Institute for Manufacturing (IfM), Universidad de Cambridge",
+        "Møller Institute"
+      ],
+      "contrapartes": [
+        "c01",
+        "c02",
+        "c03",
+        "c04",
+        "c05",
+        "c06",
+        "c07",
+        "c08"
+      ],
+      "relacion_con_la_mision": {
+        "es": "Contraparte académica del curso",
+        "en": "Contraparte académica del curso"
+      },
+      "reuniones": [
+        {
+          "actividad_id": "a0310",
+          "fecha": "2026-11-25",
+          "hora": "10:00",
+          "titulo": "Bienvenida y presentación general del curso"
+        },
+        {
+          "actividad_id": "a0402",
+          "fecha": "2026-11-26",
+          "hora": "09:30",
+          "titulo": "Repaso y presentación general del segundo día"
+        }
+      ],
+      "traduccion": "automatica"
+    },
+    {
+      "id": "e02",
+      "nombre": "Møller Institute – University of Cambridge",
+      "logo": null,
+      "sector": {
+        "es": "Sede del curso",
+        "en": "Sede del curso"
+      },
+      "ciudad": "Cambridge, Reino Unido",
+      "sitio_web": "https://chu.cam.ac.uk/conferences/moller-centre",
+      "descripcion": {
+        "es": "Sede de las sesiones del curso los días 25 y 26 de noviembre, según la agenda oficial.",
+        "en": "Sede de las sesiones del curso los días 25 y 26 de noviembre, según la agenda oficial."
+      },
+      "instalaciones": [
+        "Møller Institute - University of Cambridge"
+      ],
+      "contrapartes": [],
+      "relacion_con_la_mision": {
+        "es": "Lugar de las actividades académicas",
+        "en": "Lugar de las actividades académicas"
+      },
+      "reuniones": [],
+      "traduccion": "automatica"
+    }
+  ],
+  "reuniones": [
+    {
+      "id": "r-a0310",
+      "actividad_id": "a0310",
+      "dia_id": "d03",
+      "fecha": "2026-11-25",
+      "inicio": "10:00",
+      "fin": "10:15",
+      "estado": "confirmado",
+      "titulo": {
+        "es": "Bienvenida y presentación general del curso",
+        "en": "Bienvenida y presentación general del curso"
+      },
+      "traduccion": "automatica",
+      "empresa_ids": [
+        "e01",
+        "e02"
+      ],
+      "lugar": {
+        "nombre": "Møller Institute - University of Cambridge",
+        "nombre_local": null,
+        "direccion": null,
+        "mapa_url": "https://www.google.com/maps/search/?api=1&query=M%C3%B8ller+Institute%2C+Churchill+College%2C+Cambridge",
+        "sitio_web": "https://chu.cam.ac.uk/conferences/moller-centre",
+        "foto": "assets/places/place-moller.webp",
+        "foto_credito": "Wikimedia Commons / Smb1001",
+        "foto_fuente_url": "https://commons.wikimedia.org/wiki/File:Maersk_McKinney_Moller_Institute,_Churchill_College,_Cambridge.jpg",
+        "foto_licencia": "CC BY-SA 4.0",
+        "foto_tipo": "sede"
+      },
+      "agenda_pagina": null,
+      "fuente": "agenda; investigación",
+      "pendiente_validacion": true
+    },
+    {
+      "id": "r-a0311",
+      "actividad_id": "a0311",
+      "dia_id": "d03",
+      "fecha": "2026-11-25",
+      "inicio": "10:15",
+      "fin": "11:00",
+      "estado": "confirmado",
+      "titulo": {
+        "es": "Sesión 1. Contexto general: integración de las perspectivas de política “industrial” y de “innovación”",
+        "en": "Sesión 1. Contexto general: integración de las perspectivas de política “industrial” y de “innovación”"
+      },
+      "traduccion": "automatica",
+      "empresa_ids": [
+        "e01",
+        "e02"
+      ],
+      "lugar": {
+        "nombre": "Møller Institute - University of Cambridge",
+        "nombre_local": null,
+        "direccion": null,
+        "mapa_url": "https://www.google.com/maps/search/?api=1&query=M%C3%B8ller+Institute%2C+Churchill+College%2C+Cambridge",
+        "sitio_web": "https://chu.cam.ac.uk/conferences/moller-centre",
+        "foto": "assets/places/place-moller.webp",
+        "foto_credito": "Wikimedia Commons / Smb1001",
+        "foto_fuente_url": "https://commons.wikimedia.org/wiki/File:Maersk_McKinney_Moller_Institute,_Churchill_College,_Cambridge.jpg",
+        "foto_licencia": "CC BY-SA 4.0",
+        "foto_tipo": "sede"
+      },
+      "agenda_pagina": null,
+      "fuente": "agenda; investigación",
+      "pendiente_validacion": true
+    },
+    {
+      "id": "r-a0313",
+      "actividad_id": "a0313",
+      "dia_id": "d03",
+      "fecha": "2026-11-25",
+      "inicio": "11:10",
+      "fin": "11:45",
+      "estado": "confirmado",
+      "titulo": {
+        "es": "Ejercicio 1. Identificación y análisis de problemas de política pública y presentaciones de los participantes",
+        "en": "Ejercicio 1. Identificación y análisis de problemas de política pública y presentaciones de los participantes"
+      },
+      "traduccion": "automatica",
+      "empresa_ids": [
+        "e01",
+        "e02"
+      ],
+      "lugar": {
+        "nombre": "Møller Institute - University of Cambridge",
+        "nombre_local": null,
+        "direccion": null,
+        "mapa_url": "https://www.google.com/maps/search/?api=1&query=M%C3%B8ller+Institute%2C+Churchill+College%2C+Cambridge",
+        "sitio_web": "https://chu.cam.ac.uk/conferences/moller-centre",
+        "foto": "assets/places/place-moller.webp",
+        "foto_credito": "Wikimedia Commons / Smb1001",
+        "foto_fuente_url": "https://commons.wikimedia.org/wiki/File:Maersk_McKinney_Moller_Institute,_Churchill_College,_Cambridge.jpg",
+        "foto_licencia": "CC BY-SA 4.0",
+        "foto_tipo": "sede"
+      },
+      "agenda_pagina": null,
+      "fuente": "agenda; investigación",
+      "pendiente_validacion": true
+    },
+    {
+      "id": "r-a0314",
+      "actividad_id": "a0314",
+      "dia_id": "d03",
+      "fecha": "2026-11-25",
+      "inicio": "11:45",
+      "fin": "12:45",
+      "estado": "confirmado",
+      "titulo": {
+        "es": "Sesión 2. ¿Por qué es importante la política de innovación industrial?",
+        "en": "Sesión 2. ¿Por qué es importante la política de innovación industrial?"
+      },
+      "traduccion": "automatica",
+      "empresa_ids": [
+        "e01",
+        "e02"
+      ],
+      "lugar": {
+        "nombre": "Møller Institute - University of Cambridge",
+        "nombre_local": null,
+        "direccion": null,
+        "mapa_url": "https://www.google.com/maps/search/?api=1&query=M%C3%B8ller+Institute%2C+Churchill+College%2C+Cambridge",
+        "sitio_web": "https://chu.cam.ac.uk/conferences/moller-centre",
+        "foto": "assets/places/place-moller.webp",
+        "foto_credito": "Wikimedia Commons / Smb1001",
+        "foto_fuente_url": "https://commons.wikimedia.org/wiki/File:Maersk_McKinney_Moller_Institute,_Churchill_College,_Cambridge.jpg",
+        "foto_licencia": "CC BY-SA 4.0",
+        "foto_tipo": "sede"
+      },
+      "agenda_pagina": null,
+      "fuente": "agenda; investigación",
+      "pendiente_validacion": true
+    },
+    {
+      "id": "r-a0315",
+      "actividad_id": "a0315",
+      "dia_id": "d03",
+      "fecha": "2026-11-25",
+      "inicio": "12:45",
+      "fin": "14:15",
+      "estado": "confirmado",
+      "titulo": {
+        "es": "Lunch, servido en el Moller Institute",
+        "en": "Lunch, servido en el Moller Institute"
+      },
+      "traduccion": "automatica",
+      "empresa_ids": [
+        "e01",
+        "e02"
+      ],
+      "lugar": {
+        "nombre": "Møller Institute - University of Cambridge",
+        "nombre_local": null,
+        "direccion": null,
+        "mapa_url": "https://www.google.com/maps/search/?api=1&query=M%C3%B8ller+Institute%2C+Churchill+College%2C+Cambridge",
+        "sitio_web": "https://chu.cam.ac.uk/conferences/moller-centre",
+        "foto": "assets/places/place-moller.webp",
+        "foto_credito": "Wikimedia Commons / Smb1001",
+        "foto_fuente_url": "https://commons.wikimedia.org/wiki/File:Maersk_McKinney_Moller_Institute,_Churchill_College,_Cambridge.jpg",
+        "foto_licencia": "CC BY-SA 4.0",
+        "foto_tipo": "sede"
+      },
+      "agenda_pagina": null,
+      "fuente": "agenda; investigación",
+      "pendiente_validacion": true
+    },
+    {
+      "id": "r-a0316",
+      "actividad_id": "a0316",
+      "dia_id": "d03",
+      "fecha": "2026-11-25",
+      "inicio": "14:15",
+      "fin": "15:15",
+      "estado": "confirmado",
+      "titulo": {
+        "es": "Sesión 3. Entendiendo los sistemas industriales y de innovación modernos",
+        "en": "Sesión 3. Entendiendo los sistemas industriales y de innovación modernos"
+      },
+      "traduccion": "automatica",
+      "empresa_ids": [
+        "e01",
+        "e02"
+      ],
+      "lugar": {
+        "nombre": "Møller Institute - University of Cambridge",
+        "nombre_local": null,
+        "direccion": null,
+        "mapa_url": "https://www.google.com/maps/search/?api=1&query=M%C3%B8ller+Institute%2C+Churchill+College%2C+Cambridge",
+        "sitio_web": "https://chu.cam.ac.uk/conferences/moller-centre",
+        "foto": "assets/places/place-moller.webp",
+        "foto_credito": "Wikimedia Commons / Smb1001",
+        "foto_fuente_url": "https://commons.wikimedia.org/wiki/File:Maersk_McKinney_Moller_Institute,_Churchill_College,_Cambridge.jpg",
+        "foto_licencia": "CC BY-SA 4.0",
+        "foto_tipo": "sede"
+      },
+      "agenda_pagina": null,
+      "fuente": "agenda; investigación",
+      "pendiente_validacion": true
+    },
+    {
+      "id": "r-a0318",
+      "actividad_id": "a0318",
+      "dia_id": "d03",
+      "fecha": "2026-11-25",
+      "inicio": "15:25",
+      "fin": "16:15",
+      "estado": "confirmado",
+      "titulo": {
+        "es": "Ejercicio 2. Análisis de los sistemas industriales y de innovación modernos",
+        "en": "Ejercicio 2. Análisis de los sistemas industriales y de innovación modernos"
+      },
+      "traduccion": "automatica",
+      "empresa_ids": [
+        "e01",
+        "e02"
+      ],
+      "lugar": {
+        "nombre": "Møller Institute - University of Cambridge",
+        "nombre_local": null,
+        "direccion": null,
+        "mapa_url": "https://www.google.com/maps/search/?api=1&query=M%C3%B8ller+Institute%2C+Churchill+College%2C+Cambridge",
+        "sitio_web": "https://chu.cam.ac.uk/conferences/moller-centre",
+        "foto": "assets/places/place-moller.webp",
+        "foto_credito": "Wikimedia Commons / Smb1001",
+        "foto_fuente_url": "https://commons.wikimedia.org/wiki/File:Maersk_McKinney_Moller_Institute,_Churchill_College,_Cambridge.jpg",
+        "foto_licencia": "CC BY-SA 4.0",
+        "foto_tipo": "sede"
+      },
+      "agenda_pagina": null,
+      "fuente": "agenda; investigación",
+      "pendiente_validacion": true
+    },
+    {
+      "id": "r-a0319",
+      "actividad_id": "a0319",
+      "dia_id": "d03",
+      "fecha": "2026-11-25",
+      "inicio": "16:15",
+      "fin": "16:30",
+      "estado": "confirmado",
+      "titulo": {
+        "es": "Cierre y reflexión del primer día",
+        "en": "Cierre y reflexión del primer día"
+      },
+      "traduccion": "automatica",
+      "empresa_ids": [
+        "e01",
+        "e02"
+      ],
+      "lugar": {
+        "nombre": "Møller Institute - University of Cambridge",
+        "nombre_local": null,
+        "direccion": null,
+        "mapa_url": "https://www.google.com/maps/search/?api=1&query=M%C3%B8ller+Institute%2C+Churchill+College%2C+Cambridge",
+        "sitio_web": "https://chu.cam.ac.uk/conferences/moller-centre",
+        "foto": "assets/places/place-moller.webp",
+        "foto_credito": "Wikimedia Commons / Smb1001",
+        "foto_fuente_url": "https://commons.wikimedia.org/wiki/File:Maersk_McKinney_Moller_Institute,_Churchill_College,_Cambridge.jpg",
+        "foto_licencia": "CC BY-SA 4.0",
+        "foto_tipo": "sede"
+      },
+      "agenda_pagina": null,
+      "fuente": "agenda; investigación",
+      "pendiente_validacion": true
+    },
+    {
+      "id": "r-a0321",
+      "actividad_id": "a0321",
+      "dia_id": "d03",
+      "fecha": "2026-11-25",
+      "inicio": "19:00",
+      "fin": "20:30",
+      "estado": "confirmado",
+      "titulo": {
+        "es": "Cena en el colegio Trinity Hall, entrada por Trinity Lane",
+        "en": "Cena en el colegio Trinity Hall, entrada por Trinity Lane"
+      },
+      "traduccion": "automatica",
+      "empresa_ids": [
+        "e01"
+      ],
+      "lugar": {
+        "nombre": "Trinity Hall",
+        "nombre_local": null,
+        "direccion": null,
+        "mapa_url": "https://www.google.com/maps/search/?api=1&query=Trinity+Hall%2C+Trinity+Lane%2C+Cambridge",
+        "sitio_web": "https://www.trinhall.cam.ac.uk/",
+        "foto": "assets/places/place-trinityhall.webp",
+        "foto_credito": "Wikimedia Commons / Jim Barton",
+        "foto_fuente_url": "https://commons.wikimedia.org/wiki/File:Churchill_College,_Cambridge_-_geograph.org.uk_-_5273944.jpg",
+        "foto_licencia": "CC BY-SA 2.0",
+        "foto_tipo": "edificio"
+      },
+      "agenda_pagina": null,
+      "fuente": "agenda; investigación",
+      "pendiente_validacion": true
+    },
+    {
+      "id": "r-a0402",
+      "actividad_id": "a0402",
+      "dia_id": "d04",
+      "fecha": "2026-11-26",
+      "inicio": "09:30",
+      "fin": "09:45",
+      "estado": "confirmado",
+      "titulo": {
+        "es": "Repaso y presentación general del segundo día",
+        "en": "Repaso y presentación general del segundo día"
+      },
+      "traduccion": "automatica",
+      "empresa_ids": [
+        "e01",
+        "e02"
+      ],
+      "lugar": {
+        "nombre": "Møller Institute - University of Cambridge",
+        "nombre_local": null,
+        "direccion": null,
+        "mapa_url": "https://www.google.com/maps/search/?api=1&query=M%C3%B8ller+Institute%2C+Churchill+College%2C+Cambridge",
+        "sitio_web": "https://chu.cam.ac.uk/conferences/moller-centre",
+        "foto": "assets/places/place-moller.webp",
+        "foto_credito": "Wikimedia Commons / Smb1001",
+        "foto_fuente_url": "https://commons.wikimedia.org/wiki/File:Maersk_McKinney_Moller_Institute,_Churchill_College,_Cambridge.jpg",
+        "foto_licencia": "CC BY-SA 4.0",
+        "foto_tipo": "sede"
+      },
+      "agenda_pagina": null,
+      "fuente": "agenda; investigación",
+      "pendiente_validacion": true
+    },
+    {
+      "id": "r-a0403",
+      "actividad_id": "a0403",
+      "dia_id": "d04",
+      "fecha": "2026-11-26",
+      "inicio": "09:45",
+      "fin": "10:30",
+      "estado": "confirmado",
+      "titulo": {
+        "es": "Sesión 4. Ciclo de políticas públicas e instrumentos de política",
+        "en": "Sesión 4. Ciclo de políticas públicas e instrumentos de política"
+      },
+      "traduccion": "automatica",
+      "empresa_ids": [
+        "e01",
+        "e02"
+      ],
+      "lugar": {
+        "nombre": "Møller Institute - University of Cambridge",
+        "nombre_local": null,
+        "direccion": null,
+        "mapa_url": "https://www.google.com/maps/search/?api=1&query=M%C3%B8ller+Institute%2C+Churchill+College%2C+Cambridge",
+        "sitio_web": "https://chu.cam.ac.uk/conferences/moller-centre",
+        "foto": "assets/places/place-moller.webp",
+        "foto_credito": "Wikimedia Commons / Smb1001",
+        "foto_fuente_url": "https://commons.wikimedia.org/wiki/File:Maersk_McKinney_Moller_Institute,_Churchill_College,_Cambridge.jpg",
+        "foto_licencia": "CC BY-SA 4.0",
+        "foto_tipo": "sede"
+      },
+      "agenda_pagina": null,
+      "fuente": "agenda; investigación",
+      "pendiente_validacion": true
+    },
+    {
+      "id": "r-a0404",
+      "actividad_id": "a0404",
+      "dia_id": "d04",
+      "fecha": "2026-11-26",
+      "inicio": "10:30",
+      "fin": "11:10",
+      "estado": "confirmado",
+      "titulo": {
+        "es": "Ejercicio 3 (parte 1). Taller de diseño integrado de políticas y construcción de un modelo lógico",
+        "en": "Ejercicio 3 (parte 1). Taller de diseño integrado de políticas y construcción de un modelo lógico"
+      },
+      "traduccion": "automatica",
+      "empresa_ids": [
+        "e01",
+        "e02"
+      ],
+      "lugar": {
+        "nombre": "Møller Institute - University of Cambridge",
+        "nombre_local": null,
+        "direccion": null,
+        "mapa_url": "https://www.google.com/maps/search/?api=1&query=M%C3%B8ller+Institute%2C+Churchill+College%2C+Cambridge",
+        "sitio_web": "https://chu.cam.ac.uk/conferences/moller-centre",
+        "foto": "assets/places/place-moller.webp",
+        "foto_credito": "Wikimedia Commons / Smb1001",
+        "foto_fuente_url": "https://commons.wikimedia.org/wiki/File:Maersk_McKinney_Moller_Institute,_Churchill_College,_Cambridge.jpg",
+        "foto_licencia": "CC BY-SA 4.0",
+        "foto_tipo": "sede"
+      },
+      "agenda_pagina": null,
+      "fuente": "agenda; investigación",
+      "pendiente_validacion": true
+    },
+    {
+      "id": "r-a0406",
+      "actividad_id": "a0406",
+      "dia_id": "d04",
+      "fecha": "2026-11-26",
+      "inicio": "11:20",
+      "fin": "11:40",
+      "estado": "confirmado",
+      "titulo": {
+        "es": "Sesión 5. Modelos lógicos y teoría del cambio",
+        "en": "Sesión 5. Modelos lógicos y teoría del cambio"
+      },
+      "traduccion": "automatica",
+      "empresa_ids": [
+        "e01",
+        "e02"
+      ],
+      "lugar": {
+        "nombre": "Møller Institute - University of Cambridge",
+        "nombre_local": null,
+        "direccion": null,
+        "mapa_url": "https://www.google.com/maps/search/?api=1&query=M%C3%B8ller+Institute%2C+Churchill+College%2C+Cambridge",
+        "sitio_web": "https://chu.cam.ac.uk/conferences/moller-centre",
+        "foto": "assets/places/place-moller.webp",
+        "foto_credito": "Wikimedia Commons / Smb1001",
+        "foto_fuente_url": "https://commons.wikimedia.org/wiki/File:Maersk_McKinney_Moller_Institute,_Churchill_College,_Cambridge.jpg",
+        "foto_licencia": "CC BY-SA 4.0",
+        "foto_tipo": "sede"
+      },
+      "agenda_pagina": null,
+      "fuente": "agenda; investigación",
+      "pendiente_validacion": true
+    },
+    {
+      "id": "r-a0407",
+      "actividad_id": "a0407",
+      "dia_id": "d04",
+      "fecha": "2026-11-26",
+      "inicio": "11:40",
+      "fin": "12:30",
+      "estado": "confirmado",
+      "titulo": {
+        "es": "Ejercicio 3 (parte 2). Taller de diseño integrado de políticas y construcción de un modelo lógico",
+        "en": "Ejercicio 3 (parte 2). Taller de diseño integrado de políticas y construcción de un modelo lógico"
+      },
+      "traduccion": "automatica",
+      "empresa_ids": [
+        "e01",
+        "e02"
+      ],
+      "lugar": {
+        "nombre": "Møller Institute - University of Cambridge",
+        "nombre_local": null,
+        "direccion": null,
+        "mapa_url": "https://www.google.com/maps/search/?api=1&query=M%C3%B8ller+Institute%2C+Churchill+College%2C+Cambridge",
+        "sitio_web": "https://chu.cam.ac.uk/conferences/moller-centre",
+        "foto": "assets/places/place-moller.webp",
+        "foto_credito": "Wikimedia Commons / Smb1001",
+        "foto_fuente_url": "https://commons.wikimedia.org/wiki/File:Maersk_McKinney_Moller_Institute,_Churchill_College,_Cambridge.jpg",
+        "foto_licencia": "CC BY-SA 4.0",
+        "foto_tipo": "sede"
+      },
+      "agenda_pagina": null,
+      "fuente": "agenda; investigación",
+      "pendiente_validacion": true
+    },
+    {
+      "id": "r-a0408",
+      "actividad_id": "a0408",
+      "dia_id": "d04",
+      "fecha": "2026-11-26",
+      "inicio": "12:30",
+      "fin": "13:15",
+      "estado": "confirmado",
+      "titulo": {
+        "es": "Lunch, servido en el Moller Institute",
+        "en": "Lunch, servido en el Moller Institute"
+      },
+      "traduccion": "automatica",
+      "empresa_ids": [
+        "e01",
+        "e02"
+      ],
+      "lugar": {
+        "nombre": "Møller Institute - University of Cambridge",
+        "nombre_local": null,
+        "direccion": null,
+        "mapa_url": "https://www.google.com/maps/search/?api=1&query=M%C3%B8ller+Institute%2C+Churchill+College%2C+Cambridge",
+        "sitio_web": "https://chu.cam.ac.uk/conferences/moller-centre",
+        "foto": "assets/places/place-moller.webp",
+        "foto_credito": "Wikimedia Commons / Smb1001",
+        "foto_fuente_url": "https://commons.wikimedia.org/wiki/File:Maersk_McKinney_Moller_Institute,_Churchill_College,_Cambridge.jpg",
+        "foto_licencia": "CC BY-SA 4.0",
+        "foto_tipo": "sede"
+      },
+      "agenda_pagina": null,
+      "fuente": "agenda; investigación",
+      "pendiente_validacion": true
+    },
+    {
+      "id": "r-a0409",
+      "actividad_id": "a0409",
+      "dia_id": "d04",
+      "fecha": "2026-11-26",
+      "inicio": "13:15",
+      "fin": "14:00",
+      "estado": "confirmado",
+      "titulo": {
+        "es": "Sesión 6 (parte 1). Ejemplos internacionales de política industrial e innovación: Estados Unidos",
+        "en": "Sesión 6 (parte 1). Ejemplos internacionales de política industrial e innovación: Estados Unidos"
+      },
+      "traduccion": "automatica",
+      "empresa_ids": [
+        "e01",
+        "e02"
+      ],
+      "lugar": {
+        "nombre": "Møller Institute - University of Cambridge",
+        "nombre_local": null,
+        "direccion": null,
+        "mapa_url": "https://www.google.com/maps/search/?api=1&query=M%C3%B8ller+Institute%2C+Churchill+College%2C+Cambridge",
+        "sitio_web": "https://chu.cam.ac.uk/conferences/moller-centre",
+        "foto": "assets/places/place-moller.webp",
+        "foto_credito": "Wikimedia Commons / Smb1001",
+        "foto_fuente_url": "https://commons.wikimedia.org/wiki/File:Maersk_McKinney_Moller_Institute,_Churchill_College,_Cambridge.jpg",
+        "foto_licencia": "CC BY-SA 4.0",
+        "foto_tipo": "sede"
+      },
+      "agenda_pagina": null,
+      "fuente": "agenda; investigación",
+      "pendiente_validacion": true
+    },
+    {
+      "id": "r-a0411",
+      "actividad_id": "a0411",
+      "dia_id": "d04",
+      "fecha": "2026-11-26",
+      "inicio": "14:10",
+      "fin": "15:10",
+      "estado": "confirmado",
+      "titulo": {
+        "es": "Sesión 6 (parte 2). Ejemplos internacionales de política industrial e innovación: Unión Europea y China",
+        "en": "Sesión 6 (parte 2). Ejemplos internacionales de política industrial e innovación: Unión Europea y China"
+      },
+      "traduccion": "automatica",
+      "empresa_ids": [
+        "e01",
+        "e02"
+      ],
+      "lugar": {
+        "nombre": "Møller Institute - University of Cambridge",
+        "nombre_local": null,
+        "direccion": null,
+        "mapa_url": "https://www.google.com/maps/search/?api=1&query=M%C3%B8ller+Institute%2C+Churchill+College%2C+Cambridge",
+        "sitio_web": "https://chu.cam.ac.uk/conferences/moller-centre",
+        "foto": "assets/places/place-moller.webp",
+        "foto_credito": "Wikimedia Commons / Smb1001",
+        "foto_fuente_url": "https://commons.wikimedia.org/wiki/File:Maersk_McKinney_Moller_Institute,_Churchill_College,_Cambridge.jpg",
+        "foto_licencia": "CC BY-SA 4.0",
+        "foto_tipo": "sede"
+      },
+      "agenda_pagina": null,
+      "fuente": "agenda; investigación",
+      "pendiente_validacion": true
+    },
+    {
+      "id": "r-a0412",
+      "actividad_id": "a0412",
+      "dia_id": "d04",
+      "fecha": "2026-11-26",
+      "inicio": "15:10",
+      "fin": "15:50",
+      "estado": "confirmado",
+      "titulo": {
+        "es": "Reflexión final y próximos pasos",
+        "en": "Reflexión final y próximos pasos"
+      },
+      "traduccion": "automatica",
+      "empresa_ids": [
+        "e01",
+        "e02"
+      ],
+      "lugar": {
+        "nombre": "Møller Institute - University of Cambridge",
+        "nombre_local": null,
+        "direccion": null,
+        "mapa_url": "https://www.google.com/maps/search/?api=1&query=M%C3%B8ller+Institute%2C+Churchill+College%2C+Cambridge",
+        "sitio_web": "https://chu.cam.ac.uk/conferences/moller-centre",
+        "foto": "assets/places/place-moller.webp",
+        "foto_credito": "Wikimedia Commons / Smb1001",
+        "foto_fuente_url": "https://commons.wikimedia.org/wiki/File:Maersk_McKinney_Moller_Institute,_Churchill_College,_Cambridge.jpg",
+        "foto_licencia": "CC BY-SA 4.0",
+        "foto_tipo": "sede"
+      },
+      "agenda_pagina": null,
+      "fuente": "agenda; investigación",
+      "pendiente_validacion": true
+    }
+  ]
+}

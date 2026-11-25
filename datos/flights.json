@@ -1,0 +1,96 @@
+{
+  "rutas": [
+    {
+      "id": "ruta-comitiva",
+      "nombre": "Ruta única · Comitiva con reservación de vuelo",
+      "viajeros": [
+        "p03",
+        "p01",
+        "p02",
+        "p05"
+      ],
+      "sentido": "ida y regreso",
+      "tramos": [
+        {
+          "numero": "AM 837",
+          "aerolinea": "Aeroméxico",
+          "origen": "MID",
+          "origen_nombre": "Mérida",
+          "destino": "MEX",
+          "destino_nombre": "Ciudad de México",
+          "sale_local": "2026-11-23T17:35",
+          "llega_local": "2026-11-23T19:45",
+          "zona_salida": "America/Merida",
+          "zona_llegada": "America/Mexico_City",
+          "terminal_salida": null,
+          "terminal_llegada": "2",
+          "escala": null,
+          "duracion": "2 h 10 min",
+          "reserva": null,
+          "estado": "confirmado",
+          "fuente": "agenda; reservación de vuelos"
+        },
+        {
+          "numero": "AM 7",
+          "aerolinea": "Aeroméxico",
+          "origen": "MEX",
+          "origen_nombre": "Ciudad de México",
+          "destino": "LHR",
+          "destino_nombre": "Londres Heathrow",
+          "sale_local": "2026-11-23T22:20",
+          "llega_local": "2026-11-24T15:05",
+          "zona_salida": "America/Mexico_City",
+          "zona_llegada": "Europe/London",
+          "terminal_salida": "2",
+          "terminal_llegada": "3",
+          "escala": null,
+          "duracion": "10 h 45 min",
+          "dias_extra_llegada": 1,
+          "reserva": null,
+          "estado": "confirmado",
+          "fuente": "agenda; reservación de vuelos"
+        },
+        {
+          "numero": "AM 8",
+          "aerolinea": "Aeroméxico",
+          "origen": "LHR",
+          "origen_nombre": "Londres Heathrow",
+          "destino": "MEX",
+          "destino_nombre": "Ciudad de México",
+          "sale_local": "2026-11-28T22:30",
+          "llega_local": "2026-11-29T04:20",
+          "zona_salida": "Europe/London",
+          "zona_llegada": "America/Mexico_City",
+          "terminal_salida": "3",
+          "terminal_llegada": "2",
+          "escala": null,
+          "duracion": "11 h 50 min",
+          "dias_extra_llegada": 1,
+          "reserva": null,
+          "estado": "confirmado",
+          "fuente": "agenda; reservación de vuelos"
+        },
+        {
+          "numero": "AM 822",
+          "aerolinea": "Aeroméxico",
+          "origen": "MEX",
+          "origen_nombre": "Ciudad de México",
+          "destino": "MID",
+          "destino_nombre": "Mérida",
+          "sale_local": "2026-11-29T07:50",
+          "llega_local": "2026-11-29T10:00",
+          "zona_salida": "America/Mexico_City",
+          "zona_llegada": "America/Merida",
+          "terminal_salida": "2",
+          "terminal_llegada": null,
+          "escala": null,
+          "duracion": "2 h 12 min",
+          "reserva": null,
+          "estado": "confirmado",
+          "fuente": "agenda (hora de llegada); reservación de vuelos (duración)",
+          "revisar": true
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "indicadores": [
+    {
+      "id": "ec01",
+      "nombre": {
+        "es": "Comercio en la actividad económica de Yucatán",
+        "en": "Comercio en la actividad económica de Yucatán"
+      },
+      "valor": 30.3,
+      "unidad": "% del PIB estatal",
+      "año": 2024,
+      "lugar": "Yucatán, México",
+      "fuente": "Folleto 'Why invest in Yucatán?' (SETY), con cita de INEGI, precios corrientes 2024",
+      "url": null,
+      "origen": "usuario",
+      "estado_validacion": "documento institucional proporcionado por el usuario",
+      "traduccion": "automatica"
+    },
+    {
+      "id": "ec02",
+      "nombre": {
+        "es": "Manufactura en la actividad económica de Yucatán",
+        "en": "Manufactura en la actividad económica de Yucatán"
+      },
+      "valor": 27.1,
+      "unidad": "% del PIB estatal",
+      "año": 2024,
+      "lugar": "Yucatán, México",
+      "fuente": "Folleto 'Why invest in Yucatán?' (SETY), con cita de INEGI, precios corrientes 2024",
+      "url": null,
+      "origen": "usuario",
+      "estado_validacion": "documento institucional proporcionado por el usuario",
+      "traduccion": "automatica"
+    },
+    {
+      "id": "ec03",
+      "nombre": {
+        "es": "Construcción en la actividad económica de Yucatán",
+        "en": "Construcción en la actividad económica de Yucatán"
+      },
+      "valor": 4.5,
+      "unidad": "% del PIB estatal",
+      "año": 2024,
+      "lugar": "Yucatán, México",
+      "fuente": "Folleto 'Why invest in Yucatán?' (SETY), con cita de INEGI, precios corrientes 2024",
+      "url": null,
+      "origen": "usuario",
+      "estado_validacion": "documento institucional proporcionado por el usuario",
+      "traduccion": "automatica"
+    },
+    {
+      "id": "ec04",
+      "nombre": {
+        "es": "Alojamiento y servicios de alimentos en la actividad económica de Yucatán",
+        "en": "Alojamiento y servicios de alimentos en la actividad económica de Yucatán"
+      },
+      "valor": 5,
+      "unidad": "% del PIB estatal",
+      "año": 2024,
+      "lugar": "Yucatán, México",
+      "fuente": "Folleto 'Why invest in Yucatán?' (SETY), con cita de INEGI, precios corrientes 2024",
+      "url": null,
+      "origen": "usuario",
+      "estado_validacion": "documento institucional proporcionado por el usuario",
+      "traduccion": "automatica"
+    }
+  ],
+  "sectores_prioritarios": [
+    "Aeroespacial y aeronáutica",
+    "Componentes de energía",
+    "Sector marítimo",
+    "TIC y ciberseguridad",
+    "Alimentos y bebidas",
+    "Semiconductores",
+    "Logística y distribución",
+    "Industria textil",
+    "Industria de la madera"
+  ]
+}
