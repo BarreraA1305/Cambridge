@@ -1,4 +1,4 @@
-var CACHE = 'mision-cambridge-ifm-2026-v3';
+var CACHE = 'mision-cambridge-ifm-2026-v4';
 var RECURSOS = [
   './', './index.html', './css/tokens.css', './css/app.css',
   './js/data.js', './js/utils.js', './js/app.js', './js/search.js',

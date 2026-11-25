@@ -39,17 +39,14 @@ MR.inicio = function () {
   html += '</div>';
 
   html += '<div class="section-head" style="margin-top:1.5rem"><div><h2>' + MU.esc(MU.t('comitiva')) + '</h2></div></div>';
-  html += '<div class="cards">';
+  html += '<div class="cards comitiva">';
   p.forEach(function (persona) {
     var retrato = persona.foto
       ? '<img class="person-photo" src="' + MU.esc(persona.foto) + '" alt="' + MU.esc(persona.nombre + ', ' + MU.tx(persona.cargo)) + '" width="400" height="500" loading="lazy" decoding="async">'
       : '<span class="avatar" aria-hidden="true">' + MU.esc(MU.iniciales(persona.nombre)) + '</span>';
-    html += '<article class="card"><div class="person">' + retrato;
-    html += '<div class="person-info"><h3>' + MU.esc(persona.nombre) + '</h3><p class="card-meta">' + MU.esc(MU.tx(persona.cargo)) + '</p><p class="card-meta">' + MU.esc(persona.organizacion) + '</p>';
-    if (persona.notas && /no aparece|sin itinerario|falta definir/i.test(MU.tx(persona.notas))) {
-      html += '<span class="badge badge-warn"><span aria-hidden="true">◌</span> ' + MU.esc(MU.t('por_confirmar')) + '</span>';
-    }
-    html += '</div></div></article>';
+    html += '<article class="card comitiva"><div class="person">' + retrato;
+    html += '<div class="person-info"><h3>' + MU.esc(persona.nombre) + '</h3><p class="card-meta">' + MU.esc(MU.tx(persona.cargo)) + '</p><p class="card-meta">' + MU.esc(persona.organizacion) + '</p></div>';
+    html += '</div></article>';
   });
   html += '</div>';
   return html;
