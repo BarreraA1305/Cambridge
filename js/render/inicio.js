@@ -30,7 +30,6 @@ MR.inicio = function () {
     html += '<article class="card place">' + MU.foto(c.foto, alt, MU.tx(c.nombre), c.foto_credito);
     html += '<div class="card-body"><h3>' + MU.esc(MU.tx(c.nombre)) + '</h3>';
     if (c.nombre_local && c.nombre_local !== c.nombre) html += '<p class="card-meta">' + MU.esc(c.nombre_local) + '</p>';
-    html += MU.refLabel();
     html += '<div class="card-links">';
     (c.enlaces || []).forEach(function (l) {
       html += '<a class="btn btn-sm" href="' + MU.esc(l.url) + '" target="_blank" rel="noopener noreferrer">' + MU.esc(MU.tx(l.etiqueta)) + ' ↗</a>';
@@ -42,9 +41,12 @@ MR.inicio = function () {
   html += '<div class="section-head" style="margin-top:1.5rem"><div><h2>' + MU.esc(MU.t('comitiva')) + '</h2></div></div>';
   html += '<div class="cards">';
   p.forEach(function (persona) {
-    html += '<article class="card"><div class="person"><span class="avatar" aria-hidden="true">' + MU.esc(MU.iniciales(persona.nombre)) + '</span>';
+    var retrato = persona.foto
+      ? '<img class="person-photo" src="' + MU.esc(persona.foto) + '" alt="' + MU.esc(persona.nombre + ', ' + MU.tx(persona.cargo)) + '" width="400" height="500" loading="lazy" decoding="async">'
+      : '<span class="avatar" aria-hidden="true">' + MU.esc(MU.iniciales(persona.nombre)) + '</span>';
+    html += '<article class="card"><div class="person">' + retrato;
     html += '<div class="person-info"><h3>' + MU.esc(persona.nombre) + '</h3><p class="card-meta">' + MU.esc(MU.tx(persona.cargo)) + '</p><p class="card-meta">' + MU.esc(persona.organizacion) + '</p>';
-    if (persona.notas && /pendiente|no aparece|pending/i.test(MU.tx(persona.notas))) {
+    if (persona.notas && /no aparece|sin itinerario|falta definir/i.test(MU.tx(persona.notas))) {
       html += '<span class="badge badge-warn"><span aria-hidden="true">◌</span> ' + MU.esc(MU.t('por_confirmar')) + '</span>';
     }
     html += '</div></div></article>';

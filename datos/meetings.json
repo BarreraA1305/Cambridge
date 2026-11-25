@@ -106,7 +106,7 @@
       },
       "agenda_pagina": null,
       "fuente": "agenda; investigación",
-      "pendiente_validacion": true
+      "fuente_investigada": true
     },
     {
       "id": "r-a0311",
@@ -139,7 +139,7 @@
       },
       "agenda_pagina": null,
       "fuente": "agenda; investigación",
-      "pendiente_validacion": true
+      "fuente_investigada": true
     },
     {
       "id": "r-a0313",
@@ -172,7 +172,7 @@
       },
       "agenda_pagina": null,
       "fuente": "agenda; investigación",
-      "pendiente_validacion": true
+      "fuente_investigada": true
     },
     {
       "id": "r-a0314",
@@ -205,7 +205,7 @@
       },
       "agenda_pagina": null,
       "fuente": "agenda; investigación",
-      "pendiente_validacion": true
+      "fuente_investigada": true
     },
     {
       "id": "r-a0315",
@@ -238,7 +238,7 @@
       },
       "agenda_pagina": null,
       "fuente": "agenda; investigación",
-      "pendiente_validacion": true
+      "fuente_investigada": true
     },
     {
       "id": "r-a0316",
@@ -271,7 +271,7 @@
       },
       "agenda_pagina": null,
       "fuente": "agenda; investigación",
-      "pendiente_validacion": true
+      "fuente_investigada": true
     },
     {
       "id": "r-a0318",
@@ -304,7 +304,7 @@
       },
       "agenda_pagina": null,
       "fuente": "agenda; investigación",
-      "pendiente_validacion": true
+      "fuente_investigada": true
     },
     {
       "id": "r-a0319",
@@ -337,7 +337,7 @@
       },
       "agenda_pagina": null,
       "fuente": "agenda; investigación",
-      "pendiente_validacion": true
+      "fuente_investigada": true
     },
     {
       "id": "r-a0321",
@@ -369,7 +369,7 @@
       },
       "agenda_pagina": null,
       "fuente": "agenda; investigación",
-      "pendiente_validacion": true
+      "fuente_investigada": true
     },
     {
       "id": "r-a0402",
@@ -402,7 +402,7 @@
       },
       "agenda_pagina": null,
       "fuente": "agenda; investigación",
-      "pendiente_validacion": true
+      "fuente_investigada": true
     },
     {
       "id": "r-a0403",
@@ -435,7 +435,7 @@
       },
       "agenda_pagina": null,
       "fuente": "agenda; investigación",
-      "pendiente_validacion": true
+      "fuente_investigada": true
     },
     {
       "id": "r-a0404",
@@ -468,7 +468,7 @@
       },
       "agenda_pagina": null,
       "fuente": "agenda; investigación",
-      "pendiente_validacion": true
+      "fuente_investigada": true
     },
     {
       "id": "r-a0406",
@@ -501,7 +501,7 @@
       },
       "agenda_pagina": null,
       "fuente": "agenda; investigación",
-      "pendiente_validacion": true
+      "fuente_investigada": true
     },
     {
       "id": "r-a0407",
@@ -534,7 +534,7 @@
       },
       "agenda_pagina": null,
       "fuente": "agenda; investigación",
-      "pendiente_validacion": true
+      "fuente_investigada": true
     },
     {
       "id": "r-a0408",
@@ -567,7 +567,7 @@
       },
       "agenda_pagina": null,
       "fuente": "agenda; investigación",
-      "pendiente_validacion": true
+      "fuente_investigada": true
     },
     {
       "id": "r-a0409",
@@ -600,7 +600,7 @@
       },
       "agenda_pagina": null,
       "fuente": "agenda; investigación",
-      "pendiente_validacion": true
+      "fuente_investigada": true
     },
     {
       "id": "r-a0411",
@@ -633,7 +633,7 @@
       },
       "agenda_pagina": null,
       "fuente": "agenda; investigación",
-      "pendiente_validacion": true
+      "fuente_investigada": true
     },
     {
       "id": "r-a0412",
@@ -666,7 +666,7 @@
       },
       "agenda_pagina": null,
       "fuente": "agenda; investigación",
-      "pendiente_validacion": true
+      "fuente_investigada": true
     }
   ]
 }

@@ -129,15 +129,11 @@
     var boton = document.getElementById('lang-btn');
     boton.setAttribute('aria-label', MU.t('lang_button'));
     texto('skip-link', MU.t('skip'));
-    texto('cintillo', MU.t('brand') + ' · ' + (codigo === 'es' ? 'Agenda institucional' : 'Institutional agenda') + ' · ' + (m.version_agenda || (codigo === 'es' ? 'sin versión declarada' : 'no version declared')));
+    texto('cintillo', MU.t('brand') + ' · ' + (codigo === 'es' ? 'Agenda institucional' : 'Institutional agenda'));
     texto('header-delegacion', MU.tx(m.etiqueta_delegacion));
     texto('header-titulo', m.titulo_corto);
     texto('header-fechas', MU.rango(m.fecha_inicio, m.fecha_fin));
-    texto('footer-organizacion', MU.t('footer_institucion'));
-    texto('footer-mision', m.titulo);
-    texto('footer-version', (codigo === 'es' ? 'Agenda: ' : 'Agenda: ') + (m.version_agenda || (codigo === 'es' ? 'sin versión declarada' : 'no version declared')));
-    texto('footer-fecha', MU.t('pie_actualizacion'));
-    texto('footer-privado', MU.t('pie_privado'));
+    // El pie es literal (v4): dos líneas fijas, sin versión calculada ni líneas extra.
     texto('noscript-text', MU.t('noscript'));
     texto('more-label', codigo === 'es' ? 'Todas las secciones' : 'All sections');
     texto('search-title', codigo === 'es' ? 'Buscar en la guía' : 'Search the guide');

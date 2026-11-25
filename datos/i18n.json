@@ -54,9 +54,6 @@
     "sitio_oficial": "Sitio oficial",
     "ver_agenda_pagina": "Ver en la agenda · p. {n}",
     "foto": "Foto",
-    "referencia": "Información de referencia",
-    "pendiente": "pendiente de validación",
-    "traduccion": "Traducción pendiente de revisión",
     "sin_foto": "Sin foto disponible",
     "reuniones": "Reuniones",
     "empresas": "Empresas",
@@ -85,9 +82,6 @@
     "mas_un_dia": "+1 día",
     "mas_dos_dias": "+2 días",
     "hora_local": "hora local",
-    "pie_agenda": "Agenda sin versión declarada",
-    "pie_actualizacion": "Página preparada: 24 nov 2026",
-    "pie_privado": "Uso privado de la delegación · noindex,nofollow",
     "compartir": "Compartir",
     "enlace_copiado": "Enlace copiado",
     "buscar_placeholder": "Buscar…",
@@ -118,8 +112,7 @@
     "tipo_descanso": "Descanso",
     "tipo_aeropuerto": "Aeropuerto",
     "tipo_otro": "Otro",
-    "noscript": "Esta guía necesita JavaScript. Puedes consultar la agenda oficial en PDF.",
-    "footer_institucion": "Gobierno del Estado de Yucatán · Secretaría de Economía y Trabajo"
+    "noscript": "Esta guía necesita JavaScript. Puedes consultar la agenda oficial en PDF."
   },
   "en": {
     "skip": "Skip to content",
@@ -176,9 +169,6 @@
     "sitio_oficial": "Official website",
     "ver_agenda_pagina": "See in agenda · p. {n}",
     "foto": "Photo",
-    "referencia": "Reference information",
-    "pendiente": "pending validation",
-    "traduccion": "Translation pending review",
     "sin_foto": "No photo available",
     "reuniones": "Meetings",
     "empresas": "Companies",
@@ -207,9 +197,6 @@
     "mas_un_dia": "+1 day",
     "mas_dos_dias": "+2 days",
     "hora_local": "local time",
-    "pie_agenda": "Agenda with no declared version",
-    "pie_actualizacion": "Page prepared: 24 Nov 2026",
-    "pie_privado": "Private delegation use · noindex,nofollow",
     "compartir": "Share",
     "enlace_copiado": "Link copied",
     "buscar_placeholder": "Search…",
@@ -240,7 +227,6 @@
     "tipo_descanso": "Rest",
     "tipo_aeropuerto": "Airport",
     "tipo_otro": "Other",
-    "noscript": "This guide requires JavaScript. You can consult the official agenda PDF.",
-    "footer_institucion": "Government of Yucatán · Secretariat of Economy and Labour"
+    "noscript": "This guide requires JavaScript. You can consult the official agenda PDF."
   }
 }

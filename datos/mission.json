@@ -57,7 +57,7 @@
         }
       ],
       "fuente": "investigación",
-      "pendiente_validacion": true
+      "fuente_investigada": true
     },
     {
       "id": "c-cdmx",
@@ -84,7 +84,7 @@
         }
       ],
       "fuente": "investigación",
-      "pendiente_validacion": true
+      "fuente_investigada": true
     },
     {
       "id": "c-londres",
@@ -111,7 +111,7 @@
         }
       ],
       "fuente": "investigación",
-      "pendiente_validacion": true
+      "fuente_investigada": true
     },
     {
       "id": "c-cambridge",
@@ -138,7 +138,7 @@
         }
       ],
       "fuente": "investigación",
-      "pendiente_validacion": true
+      "fuente_investigada": true
     }
   ],
   "idioma": "es",
@@ -167,5 +167,5 @@
     "en"
   ],
   "idioma_por_defecto": "es",
-  "version_pagina": "2.1"
+  "version_pagina": "3.0"
 }

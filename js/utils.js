@@ -95,10 +95,12 @@ window.MU = (function () {
         (credito ? '<span class="photo-credit">' + esc(t('foto')) + ': ' + esc(credito) + '</span>' : '') + '</div>' : '') + '</div>';
   }
   function refLabel() {
-    return '<span class="ref-label">' + esc(t('referencia')) + ' · ' + esc(t('pendiente')) + '</span>';
+    // v4: la interfaz no publica etiquetas de validación ni referencia.
+    return '';
   }
   function tradNote(valor) {
-    return (valor && valor.traduccion === 'automatica') ? '<p class="trad-note">◌ ' + esc(t('traduccion')) + '</p>' : '';
+    // v4: las traducciones automáticas no generan avisos visibles.
+    return '';
   }
   function ahora() {
     var m = window.MISSION.mission;

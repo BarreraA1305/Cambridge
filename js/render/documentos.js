@@ -9,8 +9,11 @@ MR.documentos = function () {
     } else {
       html += '<div class="doc-preview placeholder" role="img" aria-label="' + MU.esc(MU.t('sin_foto')) + '">▣</div>';
     }
+    var meta = [d.categoria];
+    if (d.version) meta.push(d.version);
+    if (d.fecha) meta.push(MU.fecha(d.fecha));
     html += '<div class="card-body"><h3>' + MU.esc(MU.tx(d.titulo)) + '</h3>';
-    html += '<p class="card-meta">' + MU.esc(d.categoria) + ' · ' + MU.esc(d.version || (MU.getLang() === 'es' ? 'sin versión' : 'no version')) + ' · ' + MU.esc(d.fecha ? MU.fecha(d.fecha) : (MU.getLang() === 'es' ? 'sin fecha' : 'no date')) + '</p>';
+    html += '<p class="card-meta">' + MU.esc(meta.join(' · ')) + '</p>';
     html += '<p class="card-meta">' + MU.esc(d.paginas || '—') + ' ' + MU.esc(MU.t('paginas')) + ' · ' + MU.esc(MU.tamano(d.peso_kb)) + '</p>';
     html += '<div class="badges">' + (d.vigente ? '<span class="badge badge-ok">✓ ' + MU.esc(MU.t('vigente')) + '</span>' : '<span class="badge badge-neutral">' + MU.esc(MU.t('obsoleto')) + '</span>') + '</div>';
     if (d.idioma !== MU.getLang()) html += '<p class="source">' + MU.esc(MU.t(d.idioma === 'es' ? 'documento_es' : 'documento_en')) + '</p>';

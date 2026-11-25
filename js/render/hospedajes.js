@@ -21,7 +21,6 @@ MR.hospedajes = function () {
     if (h.agenda_pagina) html += '<a class="btn btn-sm" href="' + MU.esc(window.MISSION.mission.pdf_agenda) + '#page=' + h.agenda_pagina + '" target="_blank" rel="noopener noreferrer">' + MU.esc(MU.t('ver_agenda_pagina').replace('{n}', h.agenda_pagina)) + '</a>';
     html += '</div>';
     if (h.nota_coordinacion) html += '<p class="item-notes">' + MU.esc(MU.tx(h.nota_coordinacion)) + '</p>';
-    html += MU.refLabel();
     html += '</div></article>';
   });
   html += '</div>';

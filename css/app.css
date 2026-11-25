@@ -98,6 +98,7 @@ main { max-width: 1320px; margin: 0 auto; padding: 1rem 1rem 5.5rem; }
 .card-body { padding: .85rem 1rem 1rem; }
 .card-meta { color: var(--text-muted); font-size: .88rem; }
 .avatar { width: 52px; height: 52px; border-radius: 50%; background: var(--brand-soft); color: var(--brand-dark); display: inline-flex; align-items: center; justify-content: center; font-weight: 700; flex: 0 0 auto; }
+.person-photo { width: 52px; height: 52px; border-radius: 50%; object-fit: cover; flex: 0 0 auto; background: var(--brand-soft); }
 .person { display: flex; gap: .75rem; align-items: center; }
 .person-info { min-width: 0; }
 .badge { display: inline-flex; align-items: center; gap: .25rem; font-size: .75rem; font-weight: 700; border-radius: 999px; padding: .15rem .55rem; border: 1px solid currentColor; white-space: nowrap; }
@@ -126,7 +127,7 @@ main { max-width: 1320px; margin: 0 auto; padding: 1rem 1rem 5.5rem; }
 .meeting-card .photo { height: 100%; aspect-ratio: auto; }
 .meeting-main { padding: .85rem 1rem; min-width: 0; }
 .meeting-main h3 { margin: 0 0 .2rem; font-size: 1.05rem; }
-.meeting-meta { display: flex; flex-wrap: wrap; gap: .3rem .8rem; color: var(--text-muted); font-size: .86rem; margin: .25rem 0; }
+.meeting-description { font-size: .92rem; line-height: 1.45; margin: .35rem 0 .5rem; }
 .meeting-counterparts { display: flex; flex-wrap: nowrap; gap: .35rem; margin-top: .5rem; overflow: hidden; }
 .meeting-counterparts .chip { white-space: nowrap; }
 .meeting-detail { display: none; margin-top: .5rem; }

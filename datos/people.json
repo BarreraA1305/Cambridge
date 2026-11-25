@@ -5,7 +5,7 @@
       "nombre": "María Eugenia Ruz Pérez",
       "cargo": "Directora de Industria",
       "organizacion": "Secretaría de Economía y Trabajo de Yucatán",
-      "foto": null,
+      "foto": "assets/people/p01.webp",
       "contacto": null,
       "orden": 1,
       "notas": "Semblanza publicada en la agenda oficial, páginas 2 y 3."
@@ -15,7 +15,7 @@
       "nombre": "Zury Shaday Hernández Castillo",
       "cargo": "Directora de Análisis y Coordinación de Proyectos",
       "organizacion": "Secretaría de Economía y Trabajo de Yucatán",
-      "foto": null,
+      "foto": "assets/people/p02.webp",
       "contacto": null,
       "orden": 2,
       "notas": "Semblanza publicada en la agenda oficial, página 3."
@@ -25,7 +25,7 @@
       "nombre": "Gala Gamboa Tamayo",
       "cargo": "Jefa de Desarrollo Regional",
       "organizacion": "Secretaría de Economía y Trabajo de Yucatán",
-      "foto": null,
+      "foto": "assets/people/p03.webp",
       "contacto": null,
       "orden": 3,
       "notas": "Semblanza publicada en la agenda oficial, página 4. Titular de reservaciones de vuelo y hospedaje; por privacidad no se publican números de reserva."
@@ -35,30 +35,86 @@
       "nombre": "Leilani Sánchez Torres",
       "cargo": "Jefa de Identificación y Análisis de Proyectos",
       "organizacion": "Secretaría de Economía y Trabajo de Yucatán",
-      "foto": null,
+      "foto": "assets/people/p04.webp",
       "contacto": null,
       "orden": 4,
-      "notas": "Semblanza publicada en la agenda oficial, página 4. Aparece en la reservación del hotel Mornington, pero no en la reservación de vuelos; pendiente de confirmar su itinerario."
+      "notas": "Semblanza publicada en la agenda oficial, página 4. Su itinerario aéreo no aparece en la reservación de vuelos; aparece como huésped del hotel Mornington."
     },
     {
       "id": "p05",
       "nombre": "Brian José Suarez Flores",
       "cargo": "Jefe de Estadística y Análisis Predictivo",
       "organizacion": "Secretaría de Economía y Trabajo de Yucatán",
-      "foto": null,
+      "foto": "assets/people/p05.webp",
       "contacto": null,
       "orden": 5,
       "notas": "Semblanza publicada en la agenda oficial, página 5. El documento escribe 'Suarez' sin acento; se conserva la grafía original."
     }
   ],
   "contrapartes": [
-    { "id": "c01", "nombre": "Dr. Carlos López - Gómez", "cargo": "Director de Políticas, IfM Engage", "empresa_id": "e01", "foto": null, "notas": "" },
-    { "id": "c02", "nombre": "Dr. David Leal - Ayala", "cargo": "Subdirector de Políticas, IfM Engage", "empresa_id": "e01", "foto": null, "notas": "" },
-    { "id": "c03", "nombre": "Dr. Jennifer Castañeda - Navarrete", "cargo": "Analista Principal de Políticas, IfM Engage", "empresa_id": "e01", "foto": null, "notas": "" },
-    { "id": "c04", "nombre": "Dr. Michele Palladino", "cargo": "Analista Principal de Políticas, IfM Engage", "empresa_id": "e01", "foto": null, "notas": "" },
-    { "id": "c05", "nombre": "Dr. Mateus Labrunie", "cargo": "Analista Sénior de Políticas, IfM Engage", "empresa_id": "e01", "foto": null, "notas": "La ficha de capacitadores (página 18) lo describe como analista principal; se conserva el cargo de la lista del cuerpo académico (página 15)." },
-    { "id": "c06", "nombre": "Zongshuai Fan", "cargo": "Analista Sénior de Políticas, IfM Engage", "empresa_id": "e01", "foto": null, "notas": "" },
-    { "id": "c07", "nombre": "Francisco Pereira", "cargo": "Analista de Políticas, IfM Engage", "empresa_id": "e01", "foto": null, "notas": "" },
-    { "id": "c08", "nombre": "Prof. Eoin O’Sullivan", "cargo": "Director del Centro para la Ciencia, Tecnología y políticas de Innovación", "empresa_id": "e01", "foto": null, "notas": "" }
+    {
+      "id": "c01",
+      "nombre": "Dr. Carlos López - Gómez",
+      "cargo": "Director de Políticas, IfM Engage",
+      "empresa_id": "e01",
+      "foto": null,
+      "notas": ""
+    },
+    {
+      "id": "c02",
+      "nombre": "Dr. David Leal - Ayala",
+      "cargo": "Subdirector de Políticas, IfM Engage",
+      "empresa_id": "e01",
+      "foto": null,
+      "notas": ""
+    },
+    {
+      "id": "c03",
+      "nombre": "Dr. Jennifer Castañeda - Navarrete",
+      "cargo": "Analista Principal de Políticas, IfM Engage",
+      "empresa_id": "e01",
+      "foto": null,
+      "notas": ""
+    },
+    {
+      "id": "c04",
+      "nombre": "Dr. Michele Palladino",
+      "cargo": "Analista Principal de Políticas, IfM Engage",
+      "empresa_id": "e01",
+      "foto": null,
+      "notas": ""
+    },
+    {
+      "id": "c05",
+      "nombre": "Dr. Mateus Labrunie",
+      "cargo": "Analista Sénior de Políticas, IfM Engage",
+      "empresa_id": "e01",
+      "foto": null,
+      "notas": "La ficha de capacitadores (página 18) lo describe como analista principal; se conserva el cargo de la lista del cuerpo académico (página 15)."
+    },
+    {
+      "id": "c06",
+      "nombre": "Zongshuai Fan",
+      "cargo": "Analista Sénior de Políticas, IfM Engage",
+      "empresa_id": "e01",
+      "foto": null,
+      "notas": ""
+    },
+    {
+      "id": "c07",
+      "nombre": "Francisco Pereira",
+      "cargo": "Analista de Políticas, IfM Engage",
+      "empresa_id": "e01",
+      "foto": null,
+      "notas": ""
+    },
+    {
+      "id": "c08",
+      "nombre": "Prof. Eoin O’Sullivan",
+      "cargo": "Director del Centro para la Ciencia, Tecnología y políticas de Innovación",
+      "empresa_id": "e01",
+      "foto": null,
+      "notas": ""
+    }
   ]
 }

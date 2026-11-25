@@ -1,4 +1,4 @@
-var CACHE = 'mision-cambridge-ifm-2026-v2-1';
+var CACHE = 'mision-cambridge-ifm-2026-v3';
 var RECURSOS = [
   './', './index.html', './css/tokens.css', './css/app.css',
   './js/data.js', './js/utils.js', './js/app.js', './js/search.js',
@@ -10,6 +10,8 @@ var RECURSOS = [
   './datos/economy.json', './datos/promo.json', './datos/documents.json',
   './datos/fuentes.json', './datos/i18n.json',
   './assets/brand/logo-sety.png', './documentos/agenda-ifm-cambridge-2026.pdf',
+  './assets/people/p01.webp', './assets/people/p02.webp', './assets/people/p03.webp',
+  './assets/people/p04.webp', './assets/people/p05.webp',
   './assets/fonts/lato-300-latin.woff2', './assets/fonts/lato-300-latin-ext.woff2',
   './assets/fonts/lato-400-latin.woff2', './assets/fonts/lato-400-latin-ext.woff2',
   './assets/fonts/lato-700-latin.woff2', './assets/fonts/lato-700-latin-ext.woff2',

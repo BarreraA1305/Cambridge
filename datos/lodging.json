@@ -31,7 +31,7 @@
         "es": "Check-in 24 nov 17:30–18:00; check-out 25 nov (hora por definir en la agenda).",
         "en": "Check-in 24 Nov 17:30–18:00; check-out 25 Nov (time not stated in the agenda)."
       },
-      "pendiente_validacion": true,
+      "fuente_investigada": true,
       "revisar": true,
       "traduccion": "automatica"
     },
@@ -67,7 +67,7 @@
         "es": "Check-in 25 nov 17:00–17:30; check-out 27 nov 11:00–11:35.",
         "en": "Check-in 25 Nov 17:00–17:30; check-out 27 Nov 11:00–11:35."
       },
-      "pendiente_validacion": true,
+      "fuente_investigada": true,
       "traduccion": "automatica"
     },
     {
@@ -105,7 +105,7 @@
         "es": "Check-in 27 nov 15:15–15:45; check-out 28 nov 11:30–12:00.",
         "en": "Check-in 27 Nov 15:15–15:45; check-out 28 Nov 11:30–12:00."
       },
-      "pendiente_validacion": true,
+      "fuente_investigada": true,
       "traduccion": "automatica"
     }
   ]

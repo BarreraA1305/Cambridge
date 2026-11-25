@@ -93,7 +93,7 @@
       "licencia": "CC BY 2.0",
       "fecha_documento": null,
       "fecha_consulta": "2026-11-24",
-      "pendiente_validacion": true,
+      "fuente_investigada": true,
       "paginas": null
     },
     {
@@ -107,7 +107,7 @@
       "licencia": "CC BY-SA 4.0",
       "fecha_documento": null,
       "fecha_consulta": "2026-11-24",
-      "pendiente_validacion": true,
+      "fuente_investigada": true,
       "paginas": null
     },
     {
@@ -121,7 +121,7 @@
       "licencia": "CC BY-SA 3.0",
       "fecha_documento": null,
       "fecha_consulta": "2026-11-24",
-      "pendiente_validacion": true,
+      "fuente_investigada": true,
       "paginas": null
     },
     {
@@ -135,7 +135,7 @@
       "licencia": "CC BY-SA 4.0",
       "fecha_documento": null,
       "fecha_consulta": "2026-11-24",
-      "pendiente_validacion": true,
+      "fuente_investigada": true,
       "paginas": null
     },
     {
@@ -149,7 +149,7 @@
       "licencia": "CC BY-SA 4.0",
       "fecha_documento": null,
       "fecha_consulta": "2026-11-24",
-      "pendiente_validacion": true,
+      "fuente_investigada": true,
       "paginas": null
     },
     {
@@ -163,7 +163,7 @@
       "licencia": "CC BY-SA 2.0",
       "fecha_documento": null,
       "fecha_consulta": "2026-11-24",
-      "pendiente_validacion": true,
+      "fuente_investigada": true,
       "paginas": null
     },
     {
@@ -177,7 +177,7 @@
       "licencia": "prensa oficial",
       "fecha_documento": null,
       "fecha_consulta": "2026-11-24",
-      "pendiente_validacion": true,
+      "fuente_investigada": true,
       "paginas": null
     },
     {
@@ -191,7 +191,7 @@
       "licencia": "prensa oficial",
       "fecha_documento": null,
       "fecha_consulta": "2026-11-24",
-      "pendiente_validacion": true,
+      "fuente_investigada": true,
       "paginas": null
     },
     {
@@ -205,7 +205,7 @@
       "licencia": "prensa oficial (no disponible)",
       "fecha_documento": null,
       "fecha_consulta": "2026-11-24",
-      "pendiente_validacion": true,
+      "fuente_investigada": true,
       "paginas": null
     },
     {
@@ -219,7 +219,7 @@
       "licencia": "sitio oficial",
       "fecha_documento": null,
       "fecha_consulta": "2026-11-24",
-      "pendiente_validacion": true,
+      "fuente_investigada": true,
       "paginas": null
     },
     {
@@ -233,7 +233,7 @@
       "licencia": "sitio oficial",
       "fecha_documento": null,
       "fecha_consulta": "2026-11-24",
-      "pendiente_validacion": true,
+      "fuente_investigada": true,
       "paginas": null
     },
     {
@@ -247,7 +247,7 @@
       "licencia": "sitio oficial",
       "fecha_documento": null,
       "fecha_consulta": "2026-11-24",
-      "pendiente_validacion": true,
+      "fuente_investigada": true,
       "paginas": null
     },
     {
@@ -261,9 +261,79 @@
       "licencia": "sitio oficial",
       "fecha_documento": null,
       "fecha_consulta": "2026-11-24",
-      "pendiente_validacion": true,
+      "fuente_investigada": true,
+      "paginas": null
+    },
+    {
+      "id": "f24",
+      "tipo": "usuario",
+      "archivo": "Comitiva/María Eugenia Ruz Pérez.png",
+      "url": null,
+      "descripcion": "Foto de comitiva proporcionada por el usuario; publicada como p01.webp.",
+      "autor": "Comitiva de la misión",
+      "anio": "2026",
+      "licencia": "proporcionada por la comitiva",
+      "fecha_documento": null,
+      "fecha_consulta": "2026-11-25",
+      "fuente_investigada": false,
+      "paginas": null
+    },
+    {
+      "id": "f25",
+      "tipo": "usuario",
+      "archivo": "Comitiva/Zury Shaday Hernández Castillo.jpg",
+      "url": null,
+      "descripcion": "Foto de comitiva proporcionada por el usuario; publicada como p02.webp.",
+      "autor": "Comitiva de la misión",
+      "anio": "2026",
+      "licencia": "proporcionada por la comitiva",
+      "fecha_documento": null,
+      "fecha_consulta": "2026-11-25",
+      "fuente_investigada": false,
+      "paginas": null
+    },
+    {
+      "id": "f26",
+      "tipo": "usuario",
+      "archivo": "Comitiva/Gala Gamboa Tamayo.png",
+      "url": null,
+      "descripcion": "Foto de comitiva proporcionada por el usuario; publicada como p03.webp.",
+      "autor": "Comitiva de la misión",
+      "anio": "2026",
+      "licencia": "proporcionada por la comitiva",
+      "fecha_documento": null,
+      "fecha_consulta": "2026-11-25",
+      "fuente_investigada": false,
+      "paginas": null
+    },
+    {
+      "id": "f27",
+      "tipo": "usuario",
+      "archivo": "Comitiva/Leilani Sánchez Torres.png",
+      "url": null,
+      "descripcion": "Foto de comitiva proporcionada por el usuario; publicada como p04.webp.",
+      "autor": "Comitiva de la misión",
+      "anio": "2026",
+      "licencia": "proporcionada por la comitiva",
+      "fecha_documento": null,
+      "fecha_consulta": "2026-11-25",
+      "fuente_investigada": false,
+      "paginas": null
+    },
+    {
+      "id": "f28",
+      "tipo": "usuario",
+      "archivo": "Comitiva/Brian José Suarez Flores.png",
+      "url": null,
+      "descripcion": "Foto de comitiva proporcionada por el usuario; publicada como p05.webp.",
+      "autor": "Comitiva de la misión",
+      "anio": "2026",
+      "licencia": "proporcionada por la comitiva",
+      "fecha_documento": null,
+      "fecha_consulta": "2026-11-25",
+      "fuente_investigada": false,
       "paginas": null
     }
   ],
-  "nota": "Investigación externa limitada a fotos con licencia abierta y sitios oficiales de hoteles, sedes y turismo. Todo se marca como información de referencia pendiente de validación. No se publicaron datos políticos, personales ni indicadores económicos nuevos sin fuente verificable."
+  "nota": "Fotos y enlaces externos identificados con fuente, licencia y fecha de consulta en este archivo. La interfaz no publica avisos de revisión; las dudas se documentan en el reporte de extracción."
 }
